@@ -568,11 +568,12 @@ var SETDEX_DPP = {
     },
 
     "Skuntank": {
-        "Commander Jupiter 1 (29IVs)": {
+        "Commander Jupiter 1": {
             "level": 27,
             "item": "Sitrus Berry",            
             "nature": "Adamant",
             "ability": "Aftermath",
+            "ivs":{"hp":29,"at":29,"df":29,"sa":29,"sd":29,"sp":29},
             "moves": [
                 "Poison Jab",
                 "Night Slash",
@@ -1133,11 +1134,12 @@ var SETDEX_DPP = {
     },
 
     "Mismagius": {
-        "Leader Fantina (29IVs)": {
+        "Leader Fantina": {
             "level": 33,
             "item": "Sitrus Berry",            
             "nature": "Naive",
             "ability": "Levitate",
+            "ivs":{"hp":29,"at":29,"df":29,"sa":29,"sd":29,"sp":29},
             "moves": [
                 "Shadow Ball",
                 "Calm Mind",
@@ -1847,7 +1849,7 @@ var SETDEX_DPP = {
                 "Agility"
             ] 
         },
-        "PKMN Trainer Ryley": {
+        "PKMN Trainer Riley": {
             "level": 50,
             "item": "Life Orb",            
             "nature": "Impish",
@@ -2159,11 +2161,12 @@ var SETDEX_DPP = {
                 "Dragon Dance"
             ]	
         },
-        "Galactic Leader Cyrus 3 (29IVs)": {
+        "Galactic Leader Cyrus 3": {
             "level": 59,
             "item": "Muscle Band",            
             "nature": "Jolly",
             "ability": "Intimidate",
+            "ivs":{"hp":29,"at":29,"df":29,"sa":29,"sd":29,"sp":29},
             "moves": [
                 "Aqua Tail",
                 "Ice Fang",
@@ -2399,11 +2402,12 @@ var SETDEX_DPP = {
                 "Ice Shard"
             ]	
         },
-        "Leader Candice (29IVs)": {
+        "Leader Candice": {
             "level": 55,
             "item": "Passho Berry",            
             "nature": "Naive",
             "ability": "Thick Fat",
+            "ivs":{"hp":29,"at":29,"df":29,"sa":29,"sd":29,"sp":29},
             "moves": [
                 "Earthquake",
                 "Avalanche",
@@ -2739,11 +2743,12 @@ var SETDEX_DPP = {
                 "Swords Dance"
             ]
 		},
-        "Leader Candice (29IVs)": {
+        "Leader Candice": {
             "level": 55,
             "item": "Focus Sash",            
             "nature": "Naughty",
             "ability": "Technician",
+            "ivs":{"hp":29,"at":29,"df":29,"sa":29,"sd":29,"sp":29},
             "moves": [
                 "Crunch",
                 "Icicle Crash",
@@ -2802,7 +2807,7 @@ var SETDEX_DPP = {
                 "Hammer Arm"
             ]	
 		},
-        "PKMN Trainer Ryley": {
+        "PKMN Trainer Riley": {
             "level": 49,
             "item": "Liechi Berry",            
             "nature": "Impish",
@@ -2867,7 +2872,7 @@ var SETDEX_DPP = {
     },
 
     "Absol": {
-        "PKMN Trainer Ryley": {
+        "PKMN Trainer Riley": {
             "level": 49,
             "item": "Scope Lens",            
             "nature": "Relaxed",
@@ -2893,7 +2898,7 @@ var SETDEX_DPP = {
     },
 
     "Ursaring": {
-        "PKMN Trainer Ryley": {
+        "PKMN Trainer Riley": {
             "level": 49,
             "item": "Flame Orb",            
             "nature": "Naughty",
@@ -2919,7 +2924,7 @@ var SETDEX_DPP = {
     },
 
     "Salamence": {
-        "PKMN Trainer Ryley": {
+        "PKMN Trainer Riley": {
             "level": 49,
             "item": "Power Herb",            
             "nature": "Lax",
@@ -2956,7 +2961,7 @@ var SETDEX_DPP = {
     },
 
     "Slaking": {
-        "PKMN Trainer Ryley": {
+        "PKMN Trainer Riley": {
             "level": 49,
             "item": "Sitrus Berry",            
             "nature": "Docile",
@@ -3609,11 +3614,12 @@ var SETDEX_DPP = {
     },
 
     "Rotom-Wash": {
-        "Leader Volkner (29IVs)": {
+        "Leader Volkner": {
             "level": 61,
             "item": "Sitrus Berry",            
             "nature": "Modest",
             "ability": "Levitate",
+            "ivs":{"hp":29,"at":29,"df":29,"sa":29,"sd":29,"sp":29},
             "moves": [
                 "Thunderbolt",
                 "Hydro Pump",
@@ -3624,11 +3630,12 @@ var SETDEX_DPP = {
     },
 
     "Rotom-Heat": {
-        "Leader Volkner (29IVs)": {
+        "Leader Volkner": {
             "level": 61,
             "item": "White Herb",            
             "nature": "Modest",
             "ability": "Levitate",
+            "ivs":{"hp":29,"at":29,"df":29,"sa":29,"sd":29,"sp":29},
             "moves": [
                 "Thunderbolt",
                 "Overheat",
