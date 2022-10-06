@@ -2241,6 +2241,7 @@ var SETDEX_DPP = {
             "item": "Life Orb",            
             "nature": "Modest",
             "ability": "Swift Swim",
+            "ivs":{"hp":29,"at":29,"df":29,"sa":29,"sd":29,"sp":29},
             "moves": [
                 "Hydro Pump",
                 "Ice Beam",
