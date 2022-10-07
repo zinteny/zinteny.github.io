@@ -641,7 +641,7 @@ var DPP_PATCH = {
     'Volt Tackle': { category: 'Physical' },
     Whirlpool: { category: 'Special' },
     Wrap: { category: 'Physical' },
-    'Air Cutter': { category: 'Special' },
+    'Air Cutter': { bp: 60, category: 'Special' },
     Blizzard: { category: 'Special' },
     'Body Slam': { category: 'Physical' },
     Bubble: { category: 'Special' },
@@ -798,7 +798,7 @@ var DPP_PATCH = {
     Acupressure: { bp: 0, type: 'Normal' },
     'Aqua Ring': { bp: 0, type: 'Water' },
     Assurance: {
-        bp: 50,
+        bp: 60,
         type: 'Dark',
         makesContact: true,
         category: 'Physical'
@@ -947,7 +947,7 @@ var DPP_PATCH = {
         category: 'Special'
     },
     'Air Slash': { bp: 75, type: 'Flying', category: 'Special' },
-    'Aura Sphere': { bp: 90, type: 'Fighting', category: 'Special' },
+    'Aura Sphere': { bp: 80, type: 'Fighting', category: 'Special' },
     'Bug Buzz': { bp: 90, type: 'Bug', isSound: true, category: 'Special' },
     'Draco Meteor': { bp: 140, type: 'Dragon', self: { boosts: { spa: -2 } }, category: 'Special' },
     'Dragon Pulse': { bp: 90, type: 'Dragon', category: 'Special' },
@@ -1166,7 +1166,7 @@ var RENPLAT_PATCH = {
     'Draining Kiss': {
         bp: 75,
         type: 'Fairy',
-        drain: [2, 3],
+        drain: [1, 4],
         makesContact: true,
         category: 'Special'
     },
