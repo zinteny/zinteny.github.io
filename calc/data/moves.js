@@ -642,7 +642,7 @@ var DPP_PATCH = {
     Whirlpool: { bp: 35, category: 'Special' },
     Wrap: { category: 'Physical' },
     'Air Cutter': { bp: 60, category: 'Special' },
-    Blizzard: { pb: 110, category: 'Special' },
+    Blizzard: { bp: 110, category: 'Special' },
     'Body Slam': { category: 'Physical' },
     Bubble: { bp: 40, category: 'Special' },
     Extrasensory: { category: 'Special' },
