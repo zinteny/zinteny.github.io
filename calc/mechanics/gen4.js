@@ -60,19 +60,19 @@ function calculateDPP(gen, attacker, defender, move, field) {
     if (move.named('Weather Ball')) {
         if (field.hasWeather('Sun')) {
             move.type = 'Fire';
-            basePower *= 2;
+            basePower *= 1;
         }
         else if (field.hasWeather('Rain')) {
             move.type = 'Water';
-            basePower *= 2;
+            basePower *= 1;
         }
         else if (field.hasWeather('Sand')) {
             move.type = 'Rock';
-            basePower *= 2;
+            basePower *= 1;
         }
         else if (field.hasWeather('Hail')) {
             move.type = 'Ice';
-            basePower *= 2;
+            basePower *= 1;
         }
         else {
             move.type = 'Normal';
