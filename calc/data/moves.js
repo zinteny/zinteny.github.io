@@ -495,7 +495,7 @@ var ADV_PATCH = {
     Trick: { bp: 0, category: 'Status', type: 'Psychic' },
     Uproar: { bp: 50, type: 'Normal', isSound: true },
     'Volt Tackle': { bp: 120, type: 'Electric', recoil: [1, 3], makesContact: true },
-    'Weather Ball': { bp: 50, type: 'Normal' },
+    'Weather Ball': { bp: 100, type: 'Normal' },
     Aromatherapy: { bp: 0, category: 'Status', type: 'Grass' },
     'Brick Break': { bp: 75, type: 'Fighting', makesContact: true },
     Endeavor: { bp: 0, type: 'Normal', makesContact: true },
