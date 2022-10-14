@@ -3131,7 +3131,7 @@ var DPP_PATCH = {
     },
     Froslass: {
         types: ['Ice', 'Ghost'],
-        bs: { hp: 70, at: 80, df: 70, sa: 80, sd: 70, sp: 110 },
+        bs: { hp: 70, at: 80, df: 70, sa: 110, sd: 70, sp: 110 },
         weightkg: 26.6,
         abilities: { 0: 'Snow Cloak' }
     },
