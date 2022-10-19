@@ -264,7 +264,7 @@ var SETDEX_DPP = {
         "PKMN Trainer Cheryl": {
             "level": 19,
             "item": "Sitrus Berry",
-            "nature": "Modest",
+            "nature": "Lax",
             "ability": "Unburden",
             "moves": [
                 "Ominous Wind",
@@ -278,7 +278,7 @@ var SETDEX_DPP = {
     "Makuhita": {
         "PKMN Trainer Cheryl": {
             "level": 19,
-            "nature": "Relaxed",
+            "nature": "Lonely",
             "ability": "Thick Fat",
             "moves": [
                 "Knock Off",
@@ -292,7 +292,7 @@ var SETDEX_DPP = {
     "Wailmer": {
         "PKMN Trainer Cheryl": {
             "level": 19,
-            "nature": "Relaxed",
+            "nature": "Lonely",
             "ability": "Water Veil",
             "moves": [
                 "Water Pulse",
@@ -307,7 +307,7 @@ var SETDEX_DPP = {
         "PKMN Trainer Cheryl": {
             "level": 20,
             "item": "Sitrus Berry",
-            "nature": "Quiet",
+            "nature": "Hasty",
             "ability": "Serene Grace",
             "moves": [
                 "Hyper Voice",
