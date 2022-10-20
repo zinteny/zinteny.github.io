@@ -3509,7 +3509,7 @@ var DPP_PATCH = {
     },
     Rotom: {
         types: ['Electric', 'Ghost'],
-        bs: { hp: 50, at: 50, df: 77, sa: 95, sd: 77, sp: 91 },
+        bs: { hp: 50, at: 50, df: 77, sa: 95, sd: 77, sp: 101 },
         weightkg: 0.3,
         abilities: { 0: 'Levitate' },
         gender: 'N',
