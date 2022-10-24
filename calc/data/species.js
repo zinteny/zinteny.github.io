@@ -4781,30 +4781,39 @@ var RENPLAT_PATCH = {
             'at': 60,
             'df': 60,
             'sa': 105,
-            'sd': 70,
+            'sd': 70, 
             'sp': 95
+        }
     },
     'Castform-Rainy': {
-        types: ['Water'],
-        bs: { hp: 60, at: 60, df: 60, sa: 105, sd: 70, sp: 95 },
-        weightkg: 0.8,
-        abilities: { 0: 'Forecast' },
-        baseSpecies: 'Castform'
+        'bs': {
+            'hp': 60,
+            'at': 60,
+            'df': 60,
+            'sa': 105,
+            'sd': 70,
+            'sp': 95
+        }
     },
     'Castform-Snowy': {
-        types: ['Ice'],
-        bs: { hp: 60, at: 60, df: 60, sa: 105, sd: 70, sp: 95 },
-        weightkg: 0.8,
-        abilities: { 0: 'Forecast' },
-        baseSpecies: 'Castform'
+        'bs': {
+            'hp': 60,
+            'at': 60,
+            'df': 60,
+            'sa': 105,
+            'sd': 70,
+            'sp': 95
+        }
     },
     'Castform-Sunny': {
-        types: ['Fire'],
-        bs: { hp: 60, at: 60, df: 60, sa: 105, sd: 70, sp: 95 },
-        weightkg: 0.8,
-        abilities: { 0: 'Forecast' },
-        baseSpecies: 'Castform'
-        }
+        'bs': {
+            'hp': 60,
+            'at': 60,
+            'df': 60,
+            'sa': 105,
+            'sd': 70,
+            'sp': 95
+        }    
     },
     'Kecleon': {
         'bs': {
