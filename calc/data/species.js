@@ -3995,6 +3995,16 @@ var RENPLAT_PATCH = {
             'Flying',
         ]
     },
+    'Dodrio': {
+        'bs': {
+            'hp': 60,
+            'at': 110,
+            'df': 70,
+            'sa': 60,
+            'sd': 60,
+            'sp': 110
+        }
+    },
     'Dewgong': {
         'bs': {
             'hp': 90,
