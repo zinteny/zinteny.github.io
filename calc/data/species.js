@@ -3908,7 +3908,18 @@ var RENPLAT_PATCH = {
             'df': 55,
             'sa': 95,
             'sd': 80,
-            'sp': 110
+            'sp': 110,
+        
+        }
+    },    
+    'Clefable': {
+        'bs': {
+            'hp': 95,
+            'at': 70,
+            'df': 73,
+            'sa': 95,
+            'sd': 90,
+            'sp': 60,
         }
     },
     'Ninetales': {
