@@ -599,8 +599,9 @@ var SETDEX_DPP = {
         "PKMN Trainer Mira": {
             "level": 27,
             "item": "Sitrus Berry",            
-            "nature": "Modest",
+            "nature": "Lonely",
             "ability": "Serene Grace",
+            "ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30},
             "moves": [
                 "Dazzling Gleam",
                 "Air Cutter",
@@ -614,8 +615,9 @@ var SETDEX_DPP = {
         "PKMN Trainer Mira": {
             "level": 27,
             "item": "Spell Tag",            
-            "nature": "Hasty",
+            "nature": "Sassy",
             "ability": "Levitate",
+            "ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30},
             "moves": [
                 "Shadow Ball",
                 "Double Team",
@@ -629,8 +631,9 @@ var SETDEX_DPP = {
         "PKMN Trainer Mira": {
             "level": 27,
             "item": "Expert Belt",            
-            "nature": "Calm",
+            "nature": "Docile",
             "ability": "Trace",
+            "ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30},
             "moves": [
                 "Tri Attack",
                 "Charge Beam",
@@ -644,8 +647,9 @@ var SETDEX_DPP = {
         "PKMN Trainer Mira": {
             "level": 28,
             "item": "Life Orb",            
-            "nature": "Modest",
+            "nature": "Calm",
             "ability": "Magic Guard",
+            "ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30},
             "moves": [
                 "Psybeam",
                 "Grass Knot",
