@@ -480,7 +480,7 @@ var SETDEX_DPP = {
         },
         "Ace Trainer Maya": {
             "level": 35,
-            "nature": "Rash",
+            "nature": "Calm",
             "ability": "Technician",
             "moves": [
                 "Giga Drain",
