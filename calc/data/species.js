@@ -590,7 +590,7 @@ var RBY = {
     },
     Poliwrath: {
         types: ['Water', 'Fighting'],
-        bs: { hp: 90, at: 85, df: 95, sp: 70, sl: 70 },
+        bs: { hp: 90, at: 95, df: 95, sp: 70, sl: 70 },
         weightkg: 54
     },
     Ponyta: {
