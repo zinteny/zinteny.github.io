@@ -3975,6 +3975,16 @@ var RENPLAT_PATCH = {
             'sd': 75,
             'sp': 90
         }
+    },    
+    'Dugtrio': {
+        'bs': {
+            'hp': 35,
+            'at': 100,
+            'df': 50,
+            'sa': 50,
+            'sd': 70,
+            'sp': 120
+        }    
     },
     'Persian': {
         'bs': {
