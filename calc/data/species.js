@@ -590,7 +590,7 @@ var RBY = {
     },
     Poliwrath: {
         types: ['Water', 'Fighting'],
-        bs: { hp: 90, at: 95, df: 95, sp: 70, sl: 70 },
+        bs: { hp: 90, at: 85, df: 95, sp: 70, sl: 70 },
         weightkg: 54
     },
     Ponyta: {
@@ -4002,6 +4002,16 @@ var RENPLAT_PATCH = {
             'Psychic',
         ]
     },
+    'Poliwrath': {
+        'bs': {
+            'hp': 90,
+            'at': 95,
+            'df': 95,
+            'sa': 70,
+            'sd': 90,
+            'sp': 70
+        }
+    },  
     'Farfetch\'d': {
         'bs': {
             'hp': 55,
