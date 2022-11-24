@@ -6,7 +6,7 @@ a img {
     margin: 0 0 30px 0;
 
     background: #c8e622;
-    background: -webkit-gradient(linear, left top, left bottom, from(#C9C42E), to(#D7DEEA));
+    background: -webkit-gradient(linear, left top, left bottom, from(#F7F278), to(#343434));
     background: -moz-linear-gradient(top,  #E8EEFC,  #D7DEEA);
     background: linear-gradient(top,  #E8EEFC,  #D7DEEA);
     filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#E8EEFC', endColorstr='#D7DEEA');
