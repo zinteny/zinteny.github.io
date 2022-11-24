@@ -5,7 +5,7 @@ a img {
 .header {
     margin: 0 0 30px 0;
 
-    background: #cec10a;
+    background: #e5ecfb;
     background: -webkit-gradient(linear, left top, left bottom, from(#E8EEFC), to(#D7DEEA));
     background: -moz-linear-gradient(top,  #E8EEFC,  #D7DEEA);
     background: linear-gradient(top,  #E8EEFC,  #D7DEEA);
