@@ -392,7 +392,7 @@ var SETDEX_DPP = {
         "Rival Lucas 2": {
             "level": 30,
             "item": "Sitrus Berry",
-            "nature": "Relaxed",
+            "nature": "Hasty",
             "ability": "Overgrow",
             "moves": [
                 "Seed Bomb",
