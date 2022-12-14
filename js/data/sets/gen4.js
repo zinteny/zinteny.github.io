@@ -2325,7 +2325,7 @@ var SETDEX_DPP = {
             "level": 52,
             "item": "Wise Glasses",            
             "nature": "Impish",
-            "ability": "Magic Guard",
+            "ability": "Magic Gaurd",
             "moves": [
                 "Psychic",
                 "Focus Blast",
@@ -2337,7 +2337,7 @@ var SETDEX_DPP = {
             "level": 56,
             "item": "Life Orb",            
             "nature": "Lax",
-            "ability": "Magic Guard",
+            "ability": "Magic Gaurd",
             "moves": [
                 "Psychic",
                 "Focus Blast",
@@ -2349,7 +2349,7 @@ var SETDEX_DPP = {
             "level": 69,
             "item": "Life Orb",            
             "nature": "Jolly",
-            "ability": "Magic Guard",
+            "ability": "Magic Gaurd",
             "moves": [
                 "Psychic",
                 "Aura Sphere",
@@ -2373,7 +2373,7 @@ var SETDEX_DPP = {
             "level": 74,
             "item": "Focus Sash",            
             "nature": "Timid",
-            "ability": "Magic Guard",
+            "ability": "Magic Gaurd",
             "moves": [
                 "Psychic",
                 "Aura Sphere",
@@ -2384,7 +2384,7 @@ var SETDEX_DPP = {
         "Psychic Landon": {
             "level": 64,        
             "nature": "Mild",
-            "ability": "Magic Guard",
+            "ability": "Magic Gaurd",
             "moves": [
                 "Psychic",
                 "Energy Ball",
