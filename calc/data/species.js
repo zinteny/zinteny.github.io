@@ -3506,8 +3506,8 @@ var DPP_PATCH = {
         bs: { hp: 60, at: 70, df: 65, sa: 125, sd: 105, sp: 90 },
         weightkg: 14.5,
         abilities: { 0: 'Natural Cure' }
-	},
-   Rotom: {
+    },
+    Rotom: {
         types: ['Electric', 'Ghost'],
         bs: { hp: 50, at: 50, df: 77, sa: 95, sd: 77, sp: 101 },
         weightkg: 0.3,
@@ -3543,7 +3543,7 @@ var DPP_PATCH = {
         types: ['Electric', 'Flying'],
         bs: { hp: 50, at: 65, df: 107, sa: 105, sd: 107, sp: 86 },
         weightkg: 0.3,
-        abilities: { 0: 'Motor Drive' },
+        abilities: { 0: 'Levitate' },
         gender: 'N',
         baseSpecies: 'Rotom'
     },
