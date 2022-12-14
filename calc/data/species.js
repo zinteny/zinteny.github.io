@@ -3543,7 +3543,7 @@ var DPP_PATCH = {
         types: ['Electric', 'Flying'],
         bs: { hp: 50, at: 65, df: 107, sa: 105, sd: 107, sp: 86 },
         weightkg: 0.3,
-        abilities: { 0: 'Levitate' },
+        abilities: { 0: 'Motor Drive' },
         gender: 'N',
         baseSpecies: 'Rotom'
     },
