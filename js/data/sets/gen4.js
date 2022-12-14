@@ -2361,7 +2361,7 @@ var SETDEX_DPP = {
             "level": 74,
             "item": "Life Orb",            
             "nature": "Timid",
-            "ability": "Magic Gaurd",
+            "ability": "Magic Guard",
             "moves": [
                 "Psychic",
                 "Aura Sphere",
