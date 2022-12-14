@@ -3507,31 +3507,7 @@ var DPP_PATCH = {
         weightkg: 14.5,
         abilities: { 0: 'Natural Cure' }
     },
-    Rotom: {
-        types: ['Electric', 'Ghost'],
-        bs: { hp: 50, at: 50, df: 77, sa: 95, sd: 77, sp: 101 },
-        weightkg: 0.3,
-        abilities: { 0: 'Levitate' },
-        gender: 'N',
-        otherFormes: ['Rotom-Fan', 'Rotom-Frost', 'Rotom-Heat', 'Rotom-Mow', 'Rotom-Wash']
-    },
-    'Rotom-Mow': {
-        types: ['Electric', 'Grass'],
-        bs: { hp: 50, at: 65, df: 107, sa: 105, sd: 107, sp: 86 },
-        weightkg: 0.3,
-        abilities: { 0: 'Levitate' },
-        gender: 'N',
-        baseSpecies: 'Rotom'
-    },
-    'Rotom-Frost': {
-        types: ['Electric', 'Ice'],
-        bs: { hp: 50, at: 65, df: 107, sa: 105, sd: 107, sp: 86 },
-        weightkg: 0.3,
-        abilities: { 0: 'Levitate' },
-        gender: 'N',
-        baseSpecies: 'Rotom'
-    },
-    'Rotom-Heat': {
+    Rotom-Heat: {
         types: ['Electric', 'Fire'],
         bs: { hp: 50, at: 65, df: 107, sa: 105, sd: 107, sp: 86 },
         weightkg: 0.3,
@@ -3539,15 +3515,7 @@ var DPP_PATCH = {
         gender: 'N',
         baseSpecies: 'Rotom'
     },
-    'Rotom-Fan': {
-        types: ['Electric', 'Flying'],
-        bs: { hp: 50, at: 65, df: 107, sa: 105, sd: 107, sp: 86 },
-        weightkg: 0.3,
-        abilities: { 0: 'Levitate' },
-        gender: 'N',
-        baseSpecies: 'Rotom'
-    },
-    'Rotom-Wash': {
+    Rotom-Wash: {
         types: ['Electric', 'Water'],
         bs: { hp: 50, at: 65, df: 107, sa: 105, sd: 107, sp: 86 },
         weightkg: 0.3,
