@@ -1206,7 +1206,7 @@ var GSC_PATCH = {
     },
     Mantine: {
         types: ['Water', 'Flying'],
-        bs: { hp: 65, at: 40, df: 70, sa: 80, sd: 140, sp: 70 },
+        bs: { hp: 85, at: 40, df: 70, sa: 80, sd: 140, sp: 70 },
         weightkg: 220
     },
     Mareep: {
