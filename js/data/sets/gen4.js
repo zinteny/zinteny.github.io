@@ -854,21 +854,6 @@ var SETDEX_DPP = {
         }		
     },
 
-    "Piloswine": {
-        "Rival Lucas 2": {
-            "level": 29,
-            "item": "Focus Sash",            
-            "nature": "Quirky",
-            "ability": "Thick Fat",
-            "moves": [
-                "Avalanche",
-                "Take Down",
-                "Rock Slide",
-                "Ice Shard"
-            ]   
-        }
-    },
-
     "Granbull": {
         "Rival Lucas 2": {
             "level": 29,
@@ -5263,7 +5248,7 @@ var SETDEX_DPP = {
 				"Sludge Bomb",
 				"Sleep Powder"
             ]	
-		}		
+		}	
     },
 
     "Piloswine": {
@@ -5327,20 +5312,20 @@ var SETDEX_DPP = {
     },
   
     "Piloswine": {
-        "Rival Lucas 2": {
+        "Lucas 2 - Chimchar starter": {
             "level": 29,
-            "item": "Focus Sash",            
+            "item": "Focus Sash",      		
             "nature": "Quirky",
             "ability": "Thick Fat",
             "moves": [
                 "Avalanche",
                 "Take Down",
-                "Rock Slide",
-                "Ice Shard"
-            ]   
-        }
+				"Rock Slide",
+				"Ice Shard"
+            ]	
+		}		
     },
-    
+
    "Shiftry": {
         "Ace Trainer Olivia": {
             "level": 52,      		
