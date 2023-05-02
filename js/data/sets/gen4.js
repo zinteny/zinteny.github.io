@@ -5251,21 +5251,6 @@ var SETDEX_DPP = {
 		}	
     },
 
-    "Piloswine": {
-        "Dawn 2 - Chimchar starter": {
-            "level": 29,
-            "item": "Focus Sash",      		
-            "nature": "Brave",
-            "ability": "Thick Fat",
-            "moves": [
-                "Avalanche",
-                "Take Down",
-				"Rock Slide",
-				"Ice Shard"
-            ]	
-		}		
-    },
-
     "Clefable": {
         "Dawn 2 - Chimchar starter": {
             "level": 29,
