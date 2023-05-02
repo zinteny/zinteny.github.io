@@ -4655,7 +4655,7 @@ var SETDEX_DPP = {
             ]	
 		}		
     },
-
+                
     "Girafarig": {
         "Elite Four Lucian Team 2": {
             "level": 74,      
@@ -5266,7 +5266,67 @@ var SETDEX_DPP = {
 		}		
     },
 
-    "Shiftry": {
+    "Piloswine": {
+        "Dawn 2 - Chimchar starter": {
+            "level": 29,
+            "item": "Focus Sash",      		
+            "nature": "Brave",
+            "ability": "Thick Fat",
+            "moves": [
+                "Avalanche",
+                "Take Down",
+				"Rock Slide",
+				"Ice Shard"
+            ]	
+		}		
+    },
+
+    "Clefable": {
+        "Dawn 2 - Chimchar starter": {
+            "level": 29,
+            "item": "Leftovers",      		
+            "nature": "Careful",
+            "ability": "Cute Charm",
+            "moves": [
+                "Moonblast",
+                "Moonlight",
+				"Encore",
+				"Thunder Wave"
+            ]	
+		}		
+    },
+  
+    "Lopunny": {
+        "Dawn 2 - Chimchar starter": {
+            "level": 29,
+            "item": "Muscle Band",      		
+            "nature": "Adamant",
+            "ability": "Scrappy",
+            "moves": [
+                "Dizzy Punch",
+                "Fake Out",
+				"Jump Kick",
+				"Quick Attack"
+            ]	
+		}		
+    },
+  
+    "Grotle": {
+        "Dawn 2 - Chimchar starter": {
+            "level": 30,
+            "item": "Sitrus Berry",      		
+            "nature": "Quirky",
+            "ability": "Overgrow",
+            "moves": [
+                "Seed Bomb",
+                "Body Slam",
+				"Leech Seed",
+				"Bulldoze"
+            ]	
+		}		
+    },
+    
+   "Shiftry": {
         "Ace Trainer Olivia": {
             "level": 52,      		
             "nature": "Quiet",
