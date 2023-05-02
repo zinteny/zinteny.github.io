@@ -212,7 +212,7 @@ var RBY = {
     },
     Electrode: {
         types: ['Electric'],
-        bs: { hp: 60, at: 50, df: 70, sp: 150, sl: 80 },
+        bs: { hp: 60, at: 50, df: 70, sp: 140, sl: 80 },
         weightkg: 66.6
     },
     Exeggcute: {
@@ -274,7 +274,7 @@ var RBY = {
     Golduck: { types: ['Water'], bs: { hp: 80, at: 82, df: 78, sp: 85, sl: 80 }, weightkg: 76.6 },
     Golem: {
         types: ['Rock', 'Ground'],
-        bs: { hp: 80, at: 120, df: 130, sp: 45, sl: 55 },
+        bs: { hp: 80, at: 110, df: 130, sp: 45, sl: 55 },
         weightkg: 300
     },
     Graveler: {
@@ -481,12 +481,12 @@ var RBY = {
     Muk: { types: ['Poison'], bs: { hp: 105, at: 105, df: 75, sp: 50, sl: 65 }, weightkg: 30 },
     Nidoking: {
         types: ['Poison', 'Ground'],
-        bs: { hp: 81, at: 102, df: 77, sp: 85, sl: 75 },
+        bs: { hp: 81, at: 92, df: 77, sp: 85, sl: 75 },
         weightkg: 62
     },
     Nidoqueen: {
         types: ['Poison', 'Ground'],
-        bs: { hp: 90, at: 92, df: 87, sp: 76, sl: 75 },
+        bs: { hp: 90, at: 82, df: 87, sp: 76, sl: 75 },
         weightkg: 60
     },
     'Nidoran-F': {
@@ -571,7 +571,7 @@ var RBY = {
     },
     Pikachu: {
         types: ['Electric'],
-        bs: { hp: 35, at: 55, df: 40, sp: 90, sl: 50 },
+        bs: { hp: 35, at: 55, df: 30, sp: 90, sl: 50 },
         weightkg: 6,
         nfe: true
     },
@@ -819,7 +819,7 @@ var RBY = {
 var GSC_PATCH = {
     Abra: { bs: { sa: 105, sd: 55 } },
     Aerodactyl: { bs: { sa: 60, sd: 75 } },
-    Alakazam: { bs: { sa: 135, sd: 95 } },
+    Alakazam: { bs: { sa: 135, sd: 85 } },
     Arbok: { bs: { sa: 65, sd: 79 } },
     Arcanine: { bs: { sa: 100, sd: 80 } },
     Articuno: { bs: { sa: 95, sd: 125 }, gender: 'N' },
@@ -852,7 +852,7 @@ var GSC_PATCH = {
     Electabuzz: { bs: { sa: 95, sd: 85 } },
     Electrode: { bs: { sa: 80, sd: 80 }, gender: 'N' },
     Exeggcute: { bs: { sa: 60, sd: 45 } },
-    Exeggutor: { bs: { sa: 125, sd: 75 } },
+    Exeggutor: { bs: { sa: 125, sd: 65 } },
     'Farfetch\u2019d': { bs: { sa: 58, sd: 62 } },
     Fearow: { bs: { sa: 61, sd: 61 } },
     Flareon: { bs: { sa: 95, sd: 110 } },
@@ -904,7 +904,7 @@ var GSC_PATCH = {
     'Mr. Mime': { bs: { sa: 100, sd: 120 } },
     Muk: { bs: { sa: 65, sd: 100 } },
     Nidoking: { bs: { sa: 85, sd: 75 } },
-    Nidoqueen: { bs: { sa: 75, sd: 85, atk: 92 } },
+    Nidoqueen: { bs: { sa: 75, sd: 85 } },
     'Nidoran-F': { bs: { sa: 40, sd: 40 } },
     'Nidoran-M': { bs: { sa: 40, sd: 40 } },
     Nidorina: { bs: { sa: 55, sd: 55 } },
@@ -920,7 +920,7 @@ var GSC_PATCH = {
     Pidgeot: { bs: { sa: 70, sd: 70 } },
     Pidgeotto: { bs: { sa: 50, sd: 50 } },
     Pidgey: { bs: { sa: 35, sd: 35 } },
-    Pikachu: { bs: { sa: 50, sd: 50, df: 40 } },
+    Pikachu: { bs: { sa: 50, sd: 40 } },
     Pinsir: { bs: { sa: 55, sd: 70 } },
     Poliwag: { bs: { sa: 40, sd: 40 } },
     Poliwhirl: { bs: { sa: 50, sd: 50 } },
@@ -957,8 +957,8 @@ var GSC_PATCH = {
     Venomoth: { bs: { sa: 90, sd: 75 } },
     Venonat: { bs: { sa: 40, sd: 55 } },
     Venusaur: { bs: { sa: 100, sd: 100 } },
-    Victreebel: { bs: { sa: 100, sd: 70 } },
-    Vileplume: { bs: { sa: 110, sd: 90 } },
+    Victreebel: { bs: { sa: 100, sd: 60 } },
+    Vileplume: { bs: { sa: 100, sd: 90 } },
     Voltorb: { bs: { sa: 55, sd: 55 }, gender: 'N' },
     Vulpix: { bs: { sa: 50, sd: 65 } },
     Wartortle: { bs: { sa: 65, sd: 80 } },
@@ -971,7 +971,7 @@ var GSC_PATCH = {
     Aipom: { types: ['Normal'], bs: { hp: 55, at: 70, df: 55, sa: 40, sd: 55, sp: 85 }, weightkg: 11.5 },
     Ampharos: {
         types: ['Electric'],
-        bs: { hp: 90, at: 75, df: 85, sa: 115, sd: 90, sp: 55 },
+        bs: { hp: 90, at: 75, df: 75, sa: 115, sd: 90, sp: 55 },
         weightkg: 61.5
     },
     Ariados: {
@@ -2023,7 +2023,7 @@ var ADV_PATCH = {
     },
     Exploud: {
         types: ['Normal'],
-        bs: { hp: 104, at: 91, df: 63, sa: 91, sd: 73, sp: 68 },
+        bs: { hp: 104, at: 91, df: 63, sa: 91, sd: 63, sp: 68 },
         weightkg: 84,
         abilities: { 0: 'Soundproof' }
     },
