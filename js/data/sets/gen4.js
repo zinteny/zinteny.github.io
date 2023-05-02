@@ -5325,6 +5325,21 @@ var SETDEX_DPP = {
             ]	
 		}		
     },
+  
+    "Piloswine": {
+        "Rival Lucas 2": {
+            "level": 29,
+            "item": "Focus Sash",            
+            "nature": "Quirky",
+            "ability": "Thick Fat",
+            "moves": [
+                "Avalanche",
+                "Take Down",
+                "Rock Slide",
+                "Ice Shard"
+            ]   
+        }
+    },
     
    "Shiftry": {
         "Ace Trainer Olivia": {
