@@ -5309,7 +5309,7 @@ var SETDEX_DPP = {
 				"Ice Shard"
             ]		
 		
-        }		
+        },		
        "Dawn 2 - Chimchar Starter": {
                 "level": 29,     
                 "item": "Focus Sash", 		
@@ -5322,7 +5322,7 @@ var SETDEX_DPP = {
                     "Ice Shard"
                 ]
             }
-        }  
+        },  
 
      "Shiftry": {
         "Ace Trainer Olivia": {
