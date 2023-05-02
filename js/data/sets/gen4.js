@@ -5312,9 +5312,9 @@ var SETDEX_DPP = {
     },
   
     "Piloswine": {
-        "Lucas 2 - Chimchar starter": {
-            "level": 29,
-            "item": "Focus Sash",      		
+        "Lucas 2 - Chimchar Starter": {
+            "level": 29,     
+            "item": "Focus Sash", 		
             "nature": "Quirky",
             "ability": "Thick Fat",
             "moves": [
@@ -5322,11 +5322,24 @@ var SETDEX_DPP = {
                 "Take Down",
 				"Rock Slide",
 				"Ice Shard"
-            ]	
-		}		
-    },
+            ]		
+		
+        }		
+       "Dawn 2 - Chimchar Starter": {
+                "level": 29,     
+                "item": "Focus Sash", 		
+                "nature": "Brave",
+                "ability": "Thick Fat",
+                "moves": [
+                    "Avalanche",
+                    "Take Down",
+                    "Rock Slide",
+                    "Ice Shard"
+                ]
+            }
+        }  
 
-   "Shiftry": {
+     "Shiftry": {
         "Ace Trainer Olivia": {
             "level": 52,      		
             "nature": "Quiet",
