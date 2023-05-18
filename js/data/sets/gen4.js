@@ -5436,6 +5436,42 @@ var SETDEX_DPP = {
     },
   
     "Piloswine": {
+        "Dawn 2 - Chimchar Starter": {
+            "level": 29,     
+            "item": "Focus Sash", 		
+            "nature": "Brave",
+            "ability": "Thick Fat",
+            "moves": [
+                "Avalanche",
+                "Take Down",
+                "Rock Slide",
+                "Ice Shard"
+            ]
+        },
+        "Dawn 2 - Turtwig Starter": {
+            "level": 29,     
+            "item": "Focus Sash", 		
+            "nature": "Impish",
+            "ability": "Thick Fat",
+            "moves": [
+                "Avalanche",
+                "Take Down",
+                "Rock Slide",
+                "Ice Shard"
+            ]
+        },
+        "Dawn 2 - Piplup Starter": {
+            "level": 29,     
+            "item": "Focus Sash", 		
+            "nature": "Bold",
+            "ability": "Thick Fat",
+            "moves": [
+                "Avalanche",
+                "Take Down",
+                "Rock Slide",
+                "Ice Shard"
+            ]
+        },
         "Lucas 2 - Chimchar Starter": {
             "level": 29,     
             "item": "Focus Sash", 		
@@ -5444,26 +5480,38 @@ var SETDEX_DPP = {
             "moves": [
                 "Avalanche",
                 "Take Down",
+                "Rock Slide",
+                "Ice Shard"
+            ]
+        },
+        "Lucas 2 - Turtwig Starter": {
+            "level": 29,     
+            "item": "Focus Sash", 		
+            "nature": "Hasty",
+            "ability": "Thick Fat",
+            "moves": [
+                "Avalanche",
+                "Take Down",
+                "Rock Slide",
+                "Ice Shard"
+            ]
+        },
+        "Lucas 2 - Piplup Starter": {
+            "level": 29,     
+            "item": "Focus Sash", 		
+            "nature": "Bold",
+            "ability": "Thick Fat",
+            "moves": [
+                "Avalanche",
+                "Take Down",
 				"Rock Slide",
 				"Ice Shard"
             ]		
-		
-        },		
-       "Dawn 2 - Chimchar Starter": {
-                "level": 29,     
-                "item": "Focus Sash", 		
-                "nature": "Brave",
-                "ability": "Thick Fat",
-                "moves": [
-                    "Avalanche",
-                    "Take Down",
-                    "Rock Slide",
-                    "Ice Shard"
-                ]
-            }
-        },  
-
-     "Shiftry": {
+	    
+        }		
+    },   
+       
+    "Shiftry": {
         "Ace Trainer Olivia": {
             "level": 52,      		
             "nature": "Quiet",
