@@ -2567,8 +2567,7 @@ var SETDEX_DPP = {
                 "Rock Slide"
             ]	
         },
-        "Torterra": {
-            "Dawn 4 - Chimchar starter": {
+        "Dawn 4 - Chimchar starter": {
                 "level": 70,
                 "item": "Sitrus Berry",            
                 "nature": "Hasty",
@@ -4168,7 +4167,8 @@ var SETDEX_DPP = {
 				"Encore",
 				"Thunder Wave"
             ]
-		},
+		
+        },
         "Dawn 3 - Chimchar starter": {
             "level": 44,
             "item": "Leftovers",           
@@ -4180,7 +4180,8 @@ var SETDEX_DPP = {
 				"Psychic",
 				"Thunder Wave"
             ]
-		},
+		
+        },
         "Dawn 4 - Chimchar starter": {
             "level": 69,
             "item": "Leftovers",           
@@ -4192,7 +4193,8 @@ var SETDEX_DPP = {
 				"Calm Mind",
 				"Flamethrower"
             ]
-		},
+		
+        },
         "Ace Trainer Sydney": {
             "level": 63,           
             "nature": "Impish",
@@ -4203,7 +4205,8 @@ var SETDEX_DPP = {
 				"Light Screen",
 				"Fire Blast"
             ]
-		},
+		
+        },
         "Champion Cynthia Team 4": {
             "level": 77,  
    			"item": "Light Clay",
@@ -5472,5 +5475,5 @@ var SETDEX_DPP = {
 				"Fake Out"
             ]			
         }			
-    } 
-    }}
+    }
+}
