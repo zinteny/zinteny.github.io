@@ -401,8 +401,22 @@ var SETDEX_DPP = {
                 "Bulldoze"
             ]             
         }
-    },
-
+    
+        "Grotle": {
+            "Dawn 2 - Chimchar starter": {
+                "level": 30,
+                "item": "Sitrus Berry",      		
+                "nature": "Quirky",
+                "ability": "Overgrow",
+                "moves": [
+                    "Seed Bomb",
+                    "Body Slam",
+                    "Leech Seed",
+                    "Bulldoze"
+                ]	
+            }		
+        },
+    
     "Breloom": {
         "Leader Gardenia": {
             "level": 25,
@@ -5277,21 +5291,6 @@ var SETDEX_DPP = {
                 "Fake Out",
 				"Jump Kick",
 				"Quick Attack"
-            ]	
-		}		
-    },
-  
-    "Grotle": {
-        "Dawn 2 - Chimchar starter": {
-            "level": 30,
-            "item": "Sitrus Berry",      		
-            "nature": "Quirky",
-            "ability": "Overgrow",
-            "moves": [
-                "Seed Bomb",
-                "Body Slam",
-				"Leech Seed",
-				"Bulldoze"
             ]	
 		}		
     },
