@@ -1725,6 +1725,30 @@ var SETDEX_DPP = {
     },
 
     "Infernape": {
+        "Dawn 3 - Piplup Start": {
+            "level": 45,
+            "item": "Sitrus Berry",            
+            "nature": "Bold",
+            "ability": "Iron Fist",
+            "moves": [
+                "Fire Blast",
+                "Close Combat",
+                "Thunder Punch",
+                "Rock Slide"
+            ]   
+        },
+        "Dawn 4 - Piplup Start": {
+            "level": 70,
+            "item": "Sitrus Berry",            
+            "nature": "Rash",
+            "ability": "Iron Fist",
+            "moves": [
+                "Blast Burn",
+                "Close Combat",
+                "Stone Edge",
+                "Thunder Punch"
+            ]   
+        },
         "Leader Maylene": {
             "level": 38,
             "item": "Life Orb",            
@@ -3829,11 +3853,35 @@ var SETDEX_DPP = {
     },
 
     "Jolteon": {
+        "Dawn 3 - Piplup Starter": {
+            "level": 44,
+            "item": "Wise Glasses",            
+            "nature": "Jolly",
+            "ability": "Volt Absorb",
+            "moves": [
+                "Thunder",
+                "Shadow Ball",
+                "Extrasensory",
+                "Thunder Wave"
+            ]
+		},
+        "Dawn 4 - Piplup Starter": {
+            "level": 69,
+            "item": "Shuca Berry",            
+            "nature": "Gentle",
+            "ability": "Volt Absorb",
+            "moves": [
+                "Thunderbolt",
+                "Grass Knot",
+                "Shadow Ball",
+                "Thunder Wave"
+            ]
+		},
         "Leader Volkner": {
             "level": 61,
             "item": "Focus Sash",            
             "nature": "Naive",
-            "ability": "Static",
+            "ability": "Volt Absorb",
             "moves": [
                 "Thunderbolt",
                 "Shadow Ball",
@@ -5740,6 +5788,20 @@ var SETDEX_DPP = {
             ]	
 		}	
     },
+
+    "Monferno": {
+        "Dawn 2 - Piplup Starter": {
+            "level": 30,      		
+            "nature": "Lonely",
+            "ability": "Iron Fist",
+            "moves": [
+                "Flamethrower",
+                "Fake Out",
+				"Mach Punch",
+				"Grass Knot"
+            ]	
+		}	
+    },
   
     "Piloswine": {
         "Dawn 2 - Chimchar Starter": {
@@ -5816,7 +5878,7 @@ var SETDEX_DPP = {
 	    
         }		
     },   
-       
+    
     "Shiftry": {
         "Ace Trainer Olivia": {
             "level": 52,      		
