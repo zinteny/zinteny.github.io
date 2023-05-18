@@ -2086,6 +2086,18 @@ var SETDEX_DPP = {
                 "Feather Dance"
             ] 	
         },
+        "Dawn 4 - Turtwig Starter": {
+            "level": 70,
+            "item": "Sitrus Berry",            
+            "nature": "Bold",
+            "ability": "Torrent",
+            "moves": [
+                "Hydro Cannon",
+                "Flash Cannon",
+                "Grass Knot",
+                "Ice Beam"
+            ] 	
+        },
         "Castle Valet Darach": {
             "level": 48,
             "item": "Sitrus Berry",            
@@ -4877,6 +4889,18 @@ var SETDEX_DPP = {
                 "Play Rough",
 				"Close Combat",
 				"Will-O-Wisp"
+            ]	
+        },
+        "Dawn 4 - Turtwig starter": {
+            "level": 69,      
+            "item": "Passho Berry", 			
+            "nature": "Quiet",
+            "ability": "Flash Fire",
+            "moves": [
+                "Flare Blitz",
+                "Play Rough",
+				"Close Combat",
+				"Volt Tackle"
             ]	
         },
         "Elite Four Flint Team 1": {
