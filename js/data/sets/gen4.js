@@ -36,7 +36,7 @@ var SETDEX_DPP = {
             ]
 
         },
-        "Dawn/Rival Lucas 1": {
+        "Dawn/Lucas 1": {
             "level": 9,
             "moves": [
                 "Tackle",
@@ -56,7 +56,7 @@ var SETDEX_DPP = {
                 "Taunt"
             ]
         },
-        "Dawn/Rival Lucas 1": {
+        "Dawn/Lucas 1": {
             "level": 9,
             "moves": [
                 "Scratch",
@@ -77,7 +77,7 @@ var SETDEX_DPP = {
                 "Pound"
             ]
         },
-        "Dawn/Rival Lucas 1": {
+        "Dawn/Lucas 1": {
             "level": 9,
             "moves": [
                 "Pound",
@@ -389,7 +389,7 @@ var SETDEX_DPP = {
             ]   
 
         },
-        "Rival Lucas 2": {
+        " Lucas 2 - Chimchar starter": {
             "level": 30,
             "item": "Sitrus Berry",
             "nature": "Relaxed",
@@ -401,7 +401,7 @@ var SETDEX_DPP = {
                 "Bulldoze"
             ]             
         },
-        "Dawn - 2 Chimchar starter": {
+        "Dawn 2 - Chimchar starter": {
             "level": 30,
             "item": "Sitrus Berry",      		
             "nature": "Quirky",
@@ -867,7 +867,7 @@ var SETDEX_DPP = {
     },
 
     "Granbull": {
-        "Rival Lucas 2": {
+        "Lucas 2 - Chimchar starter": {
             "level": 29,
             "item": "Muscle Band",            
             "nature": "Impish",
@@ -879,7 +879,7 @@ var SETDEX_DPP = {
                 "Ice Fang"
             ]    
         },
-		"Rival Lucas 3": {
+		"Lucas 3 - Chimchar starter": {
             "level": 44,
             "item": "Choice Band",            
             "nature": "Hasty",
@@ -891,7 +891,7 @@ var SETDEX_DPP = {
                 "Earthquake"
             ]  
         },
-		"Rival Lucas 4": {
+		"Lucas 4 - Chimchar starter": {
             "level": 69,
             "item": "Muscle Band",            
             "nature": "Impish",
@@ -906,7 +906,7 @@ var SETDEX_DPP = {
     },
 
     "Lickilicky": {
-        "Rival Lucas 2": {
+        "Lucas 2 - Chimchar starter": {
             "level": 29,
             "item": "Leftovers",            
             "nature": "Lonely",
@@ -918,7 +918,7 @@ var SETDEX_DPP = {
                 "Protect"
             ]    
         },
-        "Rival Lucas 3": {
+        "Lucas 3 - Chimchar starter": {
             "level": 44,
             "item": "Leftovers",            
             "nature": "Naughty",
@@ -930,7 +930,7 @@ var SETDEX_DPP = {
                 "Amnesia"
             ]  
         },
-        "Rival Lucas 4": {
+        "Lucas 4 - Chimchar starter": {
             "level": 69,
             "item": "Leftovers",            
             "nature": "Lonely",
@@ -2294,7 +2294,7 @@ var SETDEX_DPP = {
     },
 
     "Alakazam": {
-        "Rival Lucas 3": {
+        "Lucas 3 - Chimchar starter": {
             "level": 44,
             "item": "Life Orb",            
             "nature": "Mild",
@@ -2342,7 +2342,7 @@ var SETDEX_DPP = {
                 "Dazzling Gleam"
             ]
         },
-        "Rival Lucas 4": {
+        "Lucas 4 - Chimchar starter": {
             "level": 69,
             "item": "Life Orb",            
             "nature": "Jolly",
@@ -2392,7 +2392,7 @@ var SETDEX_DPP = {
     },
 
     "Mamoswine": {
-        "Rival Lucas 3": {
+        "Lucas 3 - Chimchar starter": {
             "level": 44,
             "item": "Passho Berry",            
             "nature": "Naive",
@@ -2417,7 +2417,7 @@ var SETDEX_DPP = {
                 "Ice Shard"
             ]
         },
-        "Rival Lucas 4": {
+        "Lucas 4 - Chimchar starter": {
             "level": 69,
             "item": "Choice Band",            
             "nature": "Hasty",
@@ -2456,7 +2456,7 @@ var SETDEX_DPP = {
     },
 
     "Vaporeon": {
-        "Rival Lucas 3": {
+        "Lucas 3 - Chimchar starter": {
             "level": 44,
             "item": "Wise Glasses",            
             "nature": "Bold",
@@ -2468,7 +2468,7 @@ var SETDEX_DPP = {
                 "Aqua Ring"
             ]	
         },
-        "Rival Lucas 4": {
+        "Lucas 4 - Chimchar starter": {
             "level": 69,
             "item": "Wacan Berry",            
             "nature": "Brave",
@@ -2483,7 +2483,7 @@ var SETDEX_DPP = {
     },
 
     "Torterra": {
-        "Rival Lucas 3": {
+        "Lucas 3 - Chimchar starter": {
             "level": 45,
             "item": "Sitrus Berry",            
             "nature": "Mild",
@@ -2495,7 +2495,7 @@ var SETDEX_DPP = {
                 "Rock Slide"
             ]	
         },
-        "Rival Lucas 4": {
+        "Lucas 4 - Chimchar starter": {
             "level": 70,
             "item": "Sitrus Berry",            
             "nature": "Jolly",
