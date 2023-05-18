@@ -2416,6 +2416,18 @@ var SETDEX_DPP = {
                 "Ice Shard"
             ]	
         },
+        "Dawn 3 - Chimchar starter": {
+            "level": 44,
+            "item": "Passho Berry",            
+            "nature": "Mild",
+            "ability": "Thick Fat",
+            "moves": [
+                "Earthquake",
+                "Avalanche",
+                "Stone Edge",
+                "Ice Shard"
+            ]	
+        },
         "Leader Candice": {
             "level": 55,
             "item": "Passho Berry",            
@@ -4083,6 +4095,28 @@ var SETDEX_DPP = {
 				"Fire Blast"
             ]
 		},
+        "Dawn 3 - Chimchar starter": {
+            "level": 44,           
+            "nature": "Quirky",
+            "ability": "Cute Charm",
+            "moves": [
+                "Moonblast",
+                "Moonlight",
+				"Psychic",
+				"Thunder Wave"
+            ]
+		},
+        "Dawn 2 - Chimchar starter": {
+            "level": 29,           
+            "nature": "Careful",
+            "ability": "Cute Charm",
+            "moves": [
+                "Moonblast",
+                "Moonlight",
+				"Encore",
+				"Thunder Wave"
+            ]
+		},
         "Champion Cynthia Team 4": {
             "level": 77,  
    			"item": "Light Clay",
@@ -5285,21 +5319,6 @@ var SETDEX_DPP = {
 				"Sleep Powder"
             ]	
 		}	
-    },
-
-    "Clefable": {
-        "Dawn 2 - Chimchar starter": {
-            "level": 29,
-            "item": "Leftovers",      		
-            "nature": "Careful",
-            "ability": "Cute Charm",
-            "moves": [
-                "Moonblast",
-                "Moonlight",
-				"Encore",
-				"Thunder Wave"
-            ]	
-		}		
     },
   
     "Piloswine": {
