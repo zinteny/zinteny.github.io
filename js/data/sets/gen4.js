@@ -1351,6 +1351,18 @@ var SETDEX_DPP = {
                 "Grass Knot",
                 "Aerial Ace"
             ]   
+        },
+        "Dawn 2 - Turtwig Starter": {
+            "level": 30,
+            "item": "Sitrus Berry",            
+            "nature": "Adamant",
+            "ability": "Torrent",
+            "moves": [
+                "Bubble Beam",
+                "Icy Wind",
+                "Brick Break",
+                "Shadow Claw"
+            ]
         }
     },
 
@@ -2062,6 +2074,18 @@ var SETDEX_DPP = {
                 "Swagger"
             ] 	
         },
+        "Dawn 3 - Turtwig Starter": {
+            "level": 45,
+            "item": "Sitrus Berry",            
+            "nature": "Relaxed",
+            "ability": "Torrent",
+            "moves": [
+                "Surf",
+                "Flash Cannon",
+                "Grass Knot",
+                "Feather Dance"
+            ] 	
+        },
         "Castle Valet Darach": {
             "level": 48,
             "item": "Sitrus Berry",            
@@ -2318,6 +2342,54 @@ var SETDEX_DPP = {
                 "Dazzling Gleam"
             ]	
         },
+        "Dawn 3 - Turtwig starter": {
+            "level": 44,
+            "item": "Life Orb",            
+            "nature": "Bashful",
+            "ability": "Magic Guard",
+            "moves": [
+                "Psychic",
+                "Shadow Ball",
+                "Energy Ball",
+                "Dazzling Gleam"
+            ]	
+        },
+        "Dawn 4 - Turtwig starter": {
+            "level": 69,
+            "item": "Life Orb",            
+            "nature": "Lonely",
+            "ability": "Magic Guard",
+            "moves": [
+                "Psychic",
+                "Shadow Ball",
+                "Aura Sphere",
+                "Dazzling Gleam"
+            ]	
+        },
+        "Dawn 3 - Piplup starter": {
+            "level": 44,
+            "item": "Life Orb",            
+            "nature": "Modest",
+            "ability": "Magic Guard",
+            "moves": [
+                "Psychic",
+                "Shadow Ball",
+                "Energy Ball",
+                "Dazzling Gleam"
+            ]	
+        },
+        "Dawn 4 - Piplup starter": {
+            "level": 69,
+            "item": "Life Orb",            
+            "nature": "Careful",
+            "ability": "Magic Guard",
+            "moves": [
+                "Psychic",
+                "Shadow Ball",
+                "Aura Sphere",
+                "Dazzling Gleam"
+            ]	
+        },
         "Lucas 3 - Chimchar starter": {
             "level": 44,
             "item": "Life Orb",            
@@ -2327,6 +2399,18 @@ var SETDEX_DPP = {
                 "Psychic",
                 "Shadow Ball",
                 "Energy Ball",
+                "Dazzling Gleam"
+            ]	
+        },
+        "Lucas 4 - Chimchar starter": {
+            "level": 69,
+            "item": "Life Orb",            
+            "nature": "Jolly",
+            "ability": "Magic Guard",
+            "moves": [
+                "Psychic",
+                "Aura Sphere",
+                "Shadow Ball",
                 "Dazzling Gleam"
             ]	
         },
@@ -2365,18 +2449,6 @@ var SETDEX_DPP = {
                 "Shadow Ball",
                 "Dazzling Gleam"
             ]
-        },
-        "Lucas 4 - Chimchar starter": {
-            "level": 69,
-            "item": "Life Orb",            
-            "nature": "Jolly",
-            "ability": "Magic Guard",
-            "moves": [
-                "Psychic",
-                "Aura Sphere",
-                "Shadow Ball",
-                "Dazzling Gleam"
-            ]	
         },
         "Elite Four Lucian Team 1": {
             "level": 74,
@@ -2440,6 +2512,54 @@ var SETDEX_DPP = {
                 "Superpower"
             ]	
         },
+        "Dawn 3 - Turtwig starter": {
+            "level": 44,
+            "item": "Passho Berry",            
+            "nature": "Serious",
+            "ability": "Thick Fat",
+            "moves": [
+                "Earthquake",
+                "Avalanche",
+                "Stone Edge",
+                "Ice Shard"
+            ]	
+        },
+        "Dawn 4 - Turtwig starter": {
+            "level": 69,
+            "item": "Choice Band",            
+            "nature": "Calm",
+            "ability": "Thick Fat",
+            "moves": [
+                "Earthquake",
+                "Icicle Crash",
+                "Stone Edge",
+                "Superpower"
+            ]	
+        },
+        "Dawn 3 - Piplup starter": {
+            "level": 44,
+            "item": "Passho Berry",            
+            "nature": "Lax",
+            "ability": "Thick Fat",
+            "moves": [
+                "Earthquake",
+                "Avalanche",
+                "Stone Edge",
+                "Ice Shard"
+            ]	
+        },
+        "Dawn 4 - Piplup starter": {
+            "level": 69,
+            "item": "Choice Band",            
+            "nature": "Quiet",
+            "ability": "Thick Fat",
+            "moves": [
+                "Earthquake",
+                "Icicle Crash",
+                "Stone Edge",
+                "Superpower"
+            ]	
+        },
         "Lucas 3 - Chimchar starter": {
             "level": 44,
             "item": "Passho Berry",            
@@ -2452,6 +2572,18 @@ var SETDEX_DPP = {
                 "Ice Shard"
             ]	
         },
+        "Lucas 4 - Chimchar starter": {
+            "level": 69,
+            "item": "Choice Band",            
+            "nature": "Hasty",
+            "ability": "Thick Fat",
+            "moves": [
+                "Earthquake",
+                "Icicle Crash",
+                "Stone Edge",
+                "Superpower"
+            ]
+        },
         "Leader Candice": {
             "level": 55,
             "item": "Passho Berry",            
@@ -2463,18 +2595,6 @@ var SETDEX_DPP = {
                 "Avalanche",
                 "Stone Edge",
                 "Ice Shard"
-            ]
-        },
-        "Lucas 4 - Chimchar starter": {
-            "level": 69,
-            "item": "Choice Band",            
-            "nature": "Hasty",
-            "ability": "Thick Fat",
-            "moves": [
-                "Earthquake",
-                "Icicle Crash",
-                "Stone Edge",
-                "Superpower"
             ]
         },
         "Elite Four Bertha Team 3": {
@@ -4747,6 +4867,18 @@ var SETDEX_DPP = {
     },
 
     "Flareon": {
+        "Dawn 3 - Turtwig starter": {
+            "level": 44,      
+            "item": "Muscle Band", 			
+            "nature": "Hardy",
+            "ability": "Flash Fire",
+            "moves": [
+                "Flare Blitz",
+                "Play Rough",
+				"Close Combat",
+				"Will-O-Wisp"
+            ]	
+        },
         "Elite Four Flint Team 1": {
             "level": 73,      
             "item": "Choice Band", 			
@@ -4758,7 +4890,7 @@ var SETDEX_DPP = {
 				"Wild Charge",
 				"Close Combat"
             ]	
-		}		
+		}			
     },
 
     "Lopunny": {
