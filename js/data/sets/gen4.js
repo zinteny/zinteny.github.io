@@ -2294,10 +2294,10 @@ var SETDEX_DPP = {
     },
 
     "Alakazam": {
-        "Lucas 3 - Chimchar starter": {
+        "Dawn 3 - Chimchar starter": {
             "level": 44,
             "item": "Life Orb",            
-            "nature": "Mild",
+            "nature": "Sassy",
             "ability": "Magic Guard",
             "moves": [
                 "Psychic",
@@ -2306,10 +2306,22 @@ var SETDEX_DPP = {
                 "Dazzling Gleam"
             ]	
         },
-        "Dawn 3 - Chimchar starter": {
+        "Dawn 4 - Chimchar starter": {
+            "level": 69,
+            "item": "Life Orb",            
+            "nature": "Calm",
+            "ability": "Magic Guard",
+            "moves": [
+                "Psychic",
+                "Shadow Ball",
+                "Aura Sphere",
+                "Dazzling Gleam"
+            ]	
+        },
+        "Lucas 3 - Chimchar starter": {
             "level": 44,
             "item": "Life Orb",            
-            "nature": "Sassy",
+            "nature": "Mild",
             "ability": "Magic Guard",
             "moves": [
                 "Psychic",
@@ -2404,10 +2416,10 @@ var SETDEX_DPP = {
     },
 
     "Mamoswine": {
-        "Lucas 3 - Chimchar starter": {
+        "Dawn 3 - Chimchar starter": {
             "level": 44,
             "item": "Passho Berry",            
-            "nature": "Naive",
+            "nature": "Mild",
             "ability": "Thick Fat",
             "moves": [
                 "Earthquake",
@@ -2416,10 +2428,22 @@ var SETDEX_DPP = {
                 "Ice Shard"
             ]	
         },
-        "Dawn 3 - Chimchar starter": {
+        "Dawn 4 - Chimchar starter": {
+            "level": 69,
+            "item": "Choice Band",            
+            "nature": "Naive",
+            "ability": "Thick Fat",
+            "moves": [
+                "Earthquake",
+                "Icicle Crash",
+                "Stone Edge",
+                "Superpower"
+            ]	
+        },
+        "Lucas 3 - Chimchar starter": {
             "level": 44,
             "item": "Passho Berry",            
-            "nature": "Mild",
+            "nature": "Naive",
             "ability": "Thick Fat",
             "moves": [
                 "Earthquake",
@@ -2480,6 +2504,30 @@ var SETDEX_DPP = {
     },
 
     "Vaporeon": {
+        "Dawn 3 - Chimchar starter": {
+            "level": 44,
+            "item": "Wise Glasses",            
+            "nature": "Careful",
+            "ability": "Water Absorb",
+            "moves": [
+                "Hydro Pump",
+                "Ice Beam",
+                "Extrasensory",
+                "Aqua Ring"
+            ]	
+        },
+        "Dawn 4 - Chimchar starter": {
+            "level": 69,
+            "item": "Wacan Berry",            
+            "nature": "Modest",
+            "ability": "Water Absorb",
+            "moves": [
+                "Muddy Water",
+                "Ice Beam",
+                "Rest",
+                "Sleep Talk"
+            ]	
+        },
         "Lucas 3 - Chimchar starter": {
             "level": 44,
             "item": "Wise Glasses",            
@@ -2507,6 +2555,31 @@ var SETDEX_DPP = {
     },
 
     "Torterra": {
+        "Dawn 3 - Chimchar starter": {
+            "level": 45,
+            "item": "Sitrus Berry",            
+            "nature": "Adamant",
+            "ability": "Overgrow",
+            "moves": [
+                "Wood Hammer",
+                "Earthquake",
+                "Iron Head",
+                "Rock Slide"
+            ]	
+        },
+        "Torterra": {
+            "Dawn 4 - Chimchar starter": {
+                "level": 70,
+                "item": "Sitrus Berry",            
+                "nature": "Hasty",
+                "ability": "Overgrow",
+                "moves": [
+                    "Frenzy Plant",
+                    "Earthquake",
+                    "Stone Edge",
+                    "Iron Head"
+                ]	
+            },
         "Lucas 3 - Chimchar starter": {
             "level": 45,
             "item": "Sitrus Berry",            
@@ -4084,19 +4157,21 @@ var SETDEX_DPP = {
     },
 
     "Clefable": {
-        "Ace Trainer Sydney": {
-            "level": 63,           
-            "nature": "Impish",
+        "Dawn 2 - Chimchar starter": {
+            "level": 29,
+            "item": "Leftovers",           
+            "nature": "Careful",
             "ability": "Cute Charm",
             "moves": [
                 "Moonblast",
-                "Reflect",
-				"Light Screen",
-				"Fire Blast"
+                "Moonlight",
+				"Encore",
+				"Thunder Wave"
             ]
 		},
         "Dawn 3 - Chimchar starter": {
-            "level": 44,           
+            "level": 44,
+            "item": "Leftovers",           
             "nature": "Quirky",
             "ability": "Cute Charm",
             "moves": [
@@ -4106,15 +4181,27 @@ var SETDEX_DPP = {
 				"Thunder Wave"
             ]
 		},
-        "Dawn 2 - Chimchar starter": {
-            "level": 29,           
-            "nature": "Careful",
+        "Dawn 4 - Chimchar starter": {
+            "level": 69,
+            "item": "Leftovers",           
+            "nature": "Quirky",
             "ability": "Cute Charm",
             "moves": [
                 "Moonblast",
-                "Moonlight",
-				"Encore",
-				"Thunder Wave"
+                "Soft-Boiled",
+				"Calm Mind",
+				"Flamethrower"
+            ]
+		},
+        "Ace Trainer Sydney": {
+            "level": 63,           
+            "nature": "Impish",
+            "ability": "Cute Charm",
+            "moves": [
+                "Moonblast",
+                "Reflect",
+				"Light Screen",
+				"Fire Blast"
             ]
 		},
         "Champion Cynthia Team 4": {
@@ -4617,7 +4704,31 @@ var SETDEX_DPP = {
                     "Jump Kick",
                     "Quick Attack"
                 ]	
-            },		
+            },	
+            "Dawn 3 - Chimchar starter": {
+                "level": 44,
+                "item": "Choice Band",      		
+                    "nature": "Naughty",
+                    "ability": "Scrappy",
+                    "moves": [
+                        "Strength",
+                        "Jump Kick",
+                        "Fire Punch",
+                        "Ice Punch"
+                    ]	
+                },
+                "Dawn 4 - Chimchar starter": {
+                    "level": 69,
+                    "item": "Focus Sash",      		
+                        "nature": "Serious",
+                        "ability": "Scrappy",
+                        "moves": [
+                            "Mega Kick",
+                            "High Jump Kick",
+                            "Fake Out",
+                            "Agility"
+                        ]	
+                    },			
             "Elite Four Flint Team 3": {
             "level": 73,      
             "item": "Muscle Band", 			
