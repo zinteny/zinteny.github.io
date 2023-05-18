@@ -5472,6 +5472,5 @@ var SETDEX_DPP = {
 				"Fake Out"
             ]			
         }			
-    }
-}
-
+    } 
+    }}
