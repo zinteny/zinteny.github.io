@@ -4785,31 +4785,103 @@ var SETDEX_DPP = {
                     "Jump Kick",
                     "Quick Attack"
                 ]	
-            },	
-            "Dawn 3 - Chimchar starter": {
-                "level": 44,
-                "item": "Choice Band",      		
-                    "nature": "Naughty",
-                    "ability": "Scrappy",
-                    "moves": [
-                        "Strength",
-                        "Jump Kick",
-                        "Fire Punch",
-                        "Ice Punch"
+        },	
+        "Dawn 3 - Chimchar starter": {
+            "level": 44,
+            "item": "Choice Band",      		
+                "nature": "Naughty",
+                "ability": "Scrappy",
+                "moves": [
+                    "Strength",
+                    "Jump Kick",
+                    "Fire Punch",
+                    "Ice Punch"
                     ]	
                 },
-                "Dawn 4 - Chimchar starter": {
-                    "level": 69,
-                    "item": "Focus Sash",      		
-                        "nature": "Serious",
-                        "ability": "Scrappy",
-                        "moves": [
-                            "Mega Kick",
-                            "High Jump Kick",
-                            "Fake Out",
-                            "Agility"
+        "Dawn 4 - Chimchar starter": {
+            "level": 69,
+            "item": "Focus Sash",      		
+                "nature": "Serious",
+                "ability": "Scrappy",
+                "moves": [
+                    "Mega Kick",
+                    "High Jump Kick",
+                    "Fake Out",
+                    "Agility"
                         ]	
-                    },			
+                    },
+                    "Dawn 2 - Turtwig starter": {
+                        "level": 29,
+                        "item": "Muscle Band",      		
+                            "nature": "Modest",
+                            "ability": "Scrappy",
+                            "moves": [
+                                "Dizzy Punch",
+                                "Fake Out",
+                                "Jump Kick",
+                                "Quick Attack"
+                            ]	
+                    },	
+                    "Dawn 3 - Turtwig starter": {
+                        "level": 44,
+                        "item": "Choice Band",      		
+                            "nature": "Timid",
+                            "ability": "Scrappy",
+                            "moves": [
+                                "Strength",
+                                "Jump Kick",
+                                "Fire Punch",
+                                "Ice Punch"
+                                ]	
+                            },
+                    "Dawn 4 - Turtwig starter": {
+                        "level": 69,
+                        "item": "Focus Sash",      		
+                            "nature": "Impish",
+                            "ability": "Scrappy",
+                            "moves": [
+                                "Mega Kick",
+                                "High Jump Kick",
+                                "Fake Out",
+                                "Agility"
+                                    ]	
+                                },
+                                "Dawn 2 - Piplup starter": {
+                                    "level": 29,
+                                    "item": "Muscle Band",      		
+                                        "nature": "Docile",
+                                        "ability": "Scrappy",
+                                        "moves": [
+                                            "Dizzy Punch",
+                                            "Fake Out",
+                                            "Jump Kick",
+                                            "Quick Attack"
+                                        ]	
+                                },	
+                                "Dawn 3 - Piplup starter": {
+                                    "level": 44,
+                                    "item": "Choice Band",      		
+                                        "nature": "Relaxed",
+                                        "ability": "Scrappy",
+                                        "moves": [
+                                            "Strength",
+                                            "Jump Kick",
+                                            "Fire Punch",
+                                            "Ice Punch"
+                                            ]	
+                                        },
+                                "Dawn 4 - Piplup starter": {
+                                    "level": 69,
+                                    "item": "Focus Sash",      		
+                                        "nature": "Modest",
+                                        "ability": "Scrappy",
+                                        "moves": [
+                                            "Mega Kick",
+                                            "High Jump Kick",
+                                            "Fake Out",
+                                            "Agility"
+                                                ]	
+                                            },           		
             "Elite Four Flint Team 3": {
             "level": 73,      
             "item": "Muscle Band", 			
