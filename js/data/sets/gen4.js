@@ -4560,7 +4560,19 @@ var SETDEX_DPP = {
 				"Sunny Day"
             ]				
         },
-        "Elite Four Flint Team 3": {
+        "Dawn 2 - Chimchar starter": {
+                "level": 29,
+                "item": "Muscle Band",      		
+                "nature": "Adamant",
+                "ability": "Scrappy",
+                "moves": [
+                    "Dizzy Punch",
+                    "Fake Out",
+                    "Jump Kick",
+                    "Quick Attack"
+                ]	
+            },		
+            "Elite Four Flint Team 3": {
             "level": 73,      
             "item": "Muscle Band", 			
             "nature": "Hasty",
@@ -5274,21 +5286,6 @@ var SETDEX_DPP = {
                 "Moonlight",
 				"Encore",
 				"Thunder Wave"
-            ]	
-		}		
-    },
-  
-    "Lopunny": {
-        "Dawn 2 - Chimchar starter": {
-            "level": 29,
-            "item": "Muscle Band",      		
-            "nature": "Adamant",
-            "ability": "Scrappy",
-            "moves": [
-                "Dizzy Punch",
-                "Fake Out",
-				"Jump Kick",
-				"Quick Attack"
             ]	
 		}		
     },
