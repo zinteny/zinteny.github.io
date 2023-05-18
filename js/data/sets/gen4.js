@@ -389,7 +389,7 @@ var SETDEX_DPP = {
             ]   
 
         },
-        " Lucas 2 - Chimchar starter": {
+        "Lucas 2 - Chimchar starter": {
             "level": 30,
             "item": "Sitrus Berry",
             "nature": "Relaxed",
@@ -2298,6 +2298,18 @@ var SETDEX_DPP = {
             "level": 44,
             "item": "Life Orb",            
             "nature": "Mild",
+            "ability": "Magic Guard",
+            "moves": [
+                "Psychic",
+                "Shadow Ball",
+                "Energy Ball",
+                "Dazzling Gleam"
+            ]	
+        },
+        "Dawn 3 - Chimchar starter": {
+            "level": 44,
+            "item": "Life Orb",            
+            "nature": "Sassy",
             "ability": "Magic Guard",
             "moves": [
                 "Psychic",
