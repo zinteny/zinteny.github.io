@@ -4195,6 +4195,84 @@ var SETDEX_DPP = {
             ]
 		
         },
+        "Dawn 2 - Turtwig starter": {
+            "level": 29,
+            "item": "Leftovers",           
+            "nature": "Jolly",
+            "ability": "Cute Charm",
+            "moves": [
+                "Moonblast",
+                "Moonlight",
+				"Encore",
+				"Thunder Wave"
+            ]
+		
+        },
+        "Dawn 3 - Turtwig starter": {
+            "level": 44,
+            "item": "Leftovers",           
+            "nature": "Naive",
+            "ability": "Cute Charm",
+            "moves": [
+                "Moonblast",
+                "Moonlight",
+				"Psychic",
+				"Thunder Wave"
+            ]
+		
+        },
+        "Dawn 4 - Turtwig starter": {
+            "level": 69,
+            "item": "Leftovers",           
+            "nature": "Sassy",
+            "ability": "Cute Charm",
+            "moves": [
+                "Moonblast",
+                "Soft-Boiled",
+				"Calm Mind",
+				"Flamethrower"
+            ]
+		
+        },
+        "Dawn 2 - Piplup starter": {
+            "level": 29,
+            "item": "Leftovers",           
+            "nature": "Lonely",
+            "ability": "Cute Charm",
+            "moves": [
+                "Moonblast",
+                "Moonlight",
+				"Encore",
+				"Thunder Wave"
+            ]
+		
+        },
+        "Dawn 3 - Piplup starter": {
+            "level": 44,
+            "item": "Leftovers",           
+            "nature": "Brave",
+            "ability": "Cute Charm",
+            "moves": [
+                "Moonblast",
+                "Moonlight",
+				"Psychic",
+				"Thunder Wave"
+            ]
+		
+        },
+        "Dawn 4 - Piplup starter": {
+            "level": 69,
+            "item": "Leftovers",           
+            "nature": "Rash",
+            "ability": "Cute Charm",
+            "moves": [
+                "Moonblast",
+                "Soft-Boiled",
+				"Calm Mind",
+				"Flamethrower"
+            ]
+		
+        },
         "Ace Trainer Sydney": {
             "level": 63,           
             "nature": "Impish",
