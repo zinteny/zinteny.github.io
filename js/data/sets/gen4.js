@@ -400,20 +400,20 @@ var SETDEX_DPP = {
                 "Leech Seed",
                 "Bulldoze"
             ]             
-        }
-        "Dawn 2 - Chimchar starter": {
-                "level": 30,
-                "item": "Sitrus Berry",      		
-                "nature": "Quirky",
-                "ability": "Overgrow",
-                "moves": [
-                    "Seed Bomb",
-                    "Body Slam",
-                    "Leech Seed",
-                    "Bulldoze"
-                ]	
-            }		
         },
+        "Dawn - 2 Chimchar starter": {
+            "level": 30,
+            "item": "Sitrus Berry",      		
+            "nature": "Quirky",
+            "ability": "Overgrow",
+            "moves": [
+                "Seed Bomb",
+                "Body Slam",
+                "Leech Seed",
+                "Bulldoze"
+            ]	
+        }		
+    },
     
     "Breloom": {
         "Leader Gardenia": {
@@ -4561,8 +4561,8 @@ var SETDEX_DPP = {
             ]				
         },
         "Dawn 2 - Chimchar starter": {
-                "level": 29,
-                "item": "Muscle Band",      		
+            "level": 29,
+            "item": "Muscle Band",      		
                 "nature": "Adamant",
                 "ability": "Scrappy",
                 "moves": [
