@@ -902,6 +902,78 @@ var SETDEX_DPP = {
                 "Crunch",
                 "Earthquake"
             ]  			
+        },
+        "Lucas 2 - Turtwig starter": {
+            "level": 29,
+            "item": "Muscle Band",            
+            "nature": "Calm",
+            "ability": "Intimidate",
+            "moves": [
+                "Play Rough",
+                "Fire Fang",
+                "Thunder Fang",
+                "Ice Fang"
+            ]    
+        },
+		"Lucas 3 - Turtwig starter": {
+            "level": 44,
+            "item": "Choice Band",            
+            "nature": "Careful",
+            "ability": "Intimidate",
+            "moves": [
+                "Play Rough",
+                "Close Combat",
+                "Crunch",
+                "Earthquake"
+            ]  
+        },
+		"Lucas 4 - Turtwig starter": {
+            "level": 69,
+            "item": "Muscle Band",            
+            "nature": "Calm",
+            "ability": "Intimidate",
+            "moves": [
+                "Play Rough",
+                "Close Combat",
+                "Crunch",
+                "Earthquake"
+            ]  			
+        },
+        "Lucas 2 - Piplup starter": {
+            "level": 29,
+            "item": "Muscle Band",            
+            "nature": "Naive",
+            "ability": "Intimidate",
+            "moves": [
+                "Play Rough",
+                "Fire Fang",
+                "Thunder Fang",
+                "Ice Fang"
+            ]    
+        },
+		"Lucas 3 - Piplup starter": {
+            "level": 44,
+            "item": "Choice Band",            
+            "nature": "Quiet",
+            "ability": "Intimidate",
+            "moves": [
+                "Play Rough",
+                "Close Combat",
+                "Crunch",
+                "Earthquake"
+            ]  
+        },
+		"Lucas 4 - Piplup starter": {
+            "level": 69,
+            "item": "Muscle Band",            
+            "nature": "Naive",
+            "ability": "Intimidate",
+            "moves": [
+                "Play Rough",
+                "Close Combat",
+                "Crunch",
+                "Earthquake"
+            ]  			
         }
     },
 
@@ -934,6 +1006,78 @@ var SETDEX_DPP = {
             "level": 69,
             "item": "Leftovers",            
             "nature": "Lonely",
+            "ability": "Own Tempo",
+            "moves": [
+                "Double-Edge",
+                "Hammer Arm",
+                "Earthquake",
+                "Swords Dance"
+            ] 	
+        },
+        "Lucas 2 - Turtwig starter": {
+            "level": 29,
+            "item": "Leftovers",            
+            "nature": "Jolly",
+            "ability": "Own Tempo",
+            "moves": [
+                "Slam",
+                "Magnitude",
+                "Knock Off",
+                "Protect"
+            ]    
+        },
+        "Lucas 3 - Turtwig starter": {
+            "level": 44,
+            "item": "Leftovers",            
+            "nature": "Mild",
+            "ability": "Own Tempo",
+            "moves": [
+                "Body Slam",
+                "Zen Headbutt",
+                "Earthquake",
+                "Amnesia"
+            ]  
+        },
+        "Lucas 4 - Turtwig starter": {
+            "level": 69,
+            "item": "Leftovers",            
+            "nature": "Jolly",
+            "ability": "Own Tempo",
+            "moves": [
+                "Double-Edge",
+                "Hammer Arm",
+                "Earthquake",
+                "Swords Dance"
+            ] 	
+        },
+        "Lucas 2 - Piplup starter": {
+            "level": 29,
+            "item": "Leftovers",            
+            "nature": "Relaxed",
+            "ability": "Own Tempo",
+            "moves": [
+                "Slam",
+                "Magnitude",
+                "Knock Off",
+                "Protect"
+            ]    
+        },
+        "Lucas 3 - Piplup starter": {
+            "level": 44,
+            "item": "Leftovers",            
+            "nature": "Timid",
+            "ability": "Own Tempo",
+            "moves": [
+                "Body Slam",
+                "Zen Headbutt",
+                "Earthquake",
+                "Amnesia"
+            ]  
+        },
+        "Lucas 4 - Piplup starter": {
+            "level": 69,
+            "item": "Leftovers",            
+            "nature": "Relaxed",
             "ability": "Own Tempo",
             "moves": [
                 "Double-Edge",
@@ -1352,6 +1496,18 @@ var SETDEX_DPP = {
                 "Aerial Ace"
             ]   
         },
+        "Lucas 2 - Turtwig Starter": {
+            "level": 30,
+            "item": "Sitrus Berry",            
+            "nature": "Bold",
+            "ability": "Torrent",
+            "moves": [
+                "Bubble Beam",
+                "Icy Wind",
+                "Brick Break",
+                "Shadow Claw"
+            ]
+        },
         "Dawn 2 - Turtwig Starter": {
             "level": 30,
             "item": "Sitrus Berry",            
@@ -1749,6 +1905,30 @@ var SETDEX_DPP = {
                 "Thunder Punch"
             ]   
         },
+        "Lucas 3 - Piplup Start": {
+            "level": 45,
+            "item": "Sitrus Berry",            
+            "nature": "Modest",
+            "ability": "Iron Fist",
+            "moves": [
+                "Fire Blast",
+                "Close Combat",
+                "Thunder Punch",
+                "Rock Slide"
+            ]   
+        },
+        "Lucas 4 - Piplup Start": {
+            "level": 70,
+            "item": "Sitrus Berry",            
+            "nature": "Serious",
+            "ability": "Iron Fist",
+            "moves": [
+                "Blast Burn",
+                "Close Combat",
+                "Stone Edge",
+                "Thunder Punch"
+            ]   
+        },
         "Leader Maylene": {
             "level": 38,
             "item": "Life Orb",            
@@ -2122,6 +2302,30 @@ var SETDEX_DPP = {
                 "Ice Beam"
             ] 	
         },
+        "Lucas 3 - Turtwig Starter": {
+            "level": 45,
+            "item": "Sitrus Berry",            
+            "nature": "Naive",
+            "ability": "Torrent",
+            "moves": [
+                "Surf",
+                "Flash Cannon",
+                "Grass Knot",
+                "Feather Dance"
+            ] 	
+        },
+        "Lucas 4 - Turtwig Starter": {
+            "level": 70,
+            "item": "Sitrus Berry",            
+            "nature": "Hasty",
+            "ability": "Torrent",
+            "moves": [
+                "Hydro Cannon",
+                "Flash Cannon",
+                "Grass Knot",
+                "Ice Beam"
+            ] 	
+        },
         "Castle Valet Darach": {
             "level": 48,
             "item": "Sitrus Berry",            
@@ -2450,6 +2654,54 @@ var SETDEX_DPP = {
                 "Dazzling Gleam"
             ]	
         },
+        "Lucas 3 - Turtwig starter": {
+            "level": 44,
+            "item": "Life Orb",            
+            "nature": "Adamant",
+            "ability": "Magic Guard",
+            "moves": [
+                "Psychic",
+                "Shadow Ball",
+                "Energy Ball",
+                "Dazzling Gleam"
+            ]	
+        },
+        "Lucas 4 - Turtwig starter": {
+            "level": 69,
+            "item": "Life Orb",            
+            "nature": "Hardy",
+            "ability": "Magic Guard",
+            "moves": [
+                "Psychic",
+                "Aura Sphere",
+                "Shadow Ball",
+                "Dazzling Gleam"
+            ]	
+        },
+        "Lucas 3 - Piplup starter": {
+            "level": 44,
+            "item": "Life Orb",            
+            "nature": "Sassy",
+            "ability": "Magic Guard",
+            "moves": [
+                "Psychic",
+                "Shadow Ball",
+                "Energy Ball",
+                "Dazzling Gleam"
+            ]	
+        },
+        "Lucas 4 - Piplup starter": {
+            "level": 69,
+            "item": "Life Orb",            
+            "nature": "Rash",
+            "ability": "Magic Guard",
+            "moves": [
+                "Psychic",
+                "Aura Sphere",
+                "Shadow Ball",
+                "Dazzling Gleam"
+            ]	
+        },
         "Castle Valet Darach": {
             "level": 48,
             "item": "Expert Belt",            
@@ -2612,6 +2864,54 @@ var SETDEX_DPP = {
             "level": 69,
             "item": "Choice Band",            
             "nature": "Hasty",
+            "ability": "Thick Fat",
+            "moves": [
+                "Earthquake",
+                "Icicle Crash",
+                "Stone Edge",
+                "Superpower"
+            ]
+        },
+        "Lucas 3 - Turtwig starter": {
+            "level": 44,
+            "item": "Passho Berry",            
+            "nature": "Lonely",
+            "ability": "Thick Fat",
+            "moves": [
+                "Earthquake",
+                "Avalanche",
+                "Stone Edge",
+                "Ice Shard"
+            ]	
+        },
+        "Lucas 4 - Turtwig starter": {
+            "level": 69,
+            "item": "Choice Band",            
+            "nature": "Careful",
+            "ability": "Thick Fat",
+            "moves": [
+                "Earthquake",
+                "Icicle Crash",
+                "Stone Edge",
+                "Superpower"
+            ]
+        },
+        "Lucas 3 - Piplup starter": {
+            "level": 44,
+            "item": "Passho Berry",            
+            "nature": "Calm",
+            "ability": "Thick Fat",
+            "moves": [
+                "Earthquake",
+                "Avalanche",
+                "Stone Edge",
+                "Ice Shard"
+            ]	
+        },
+        "Lucas 4 - Piplup starter": {
+            "level": 69,
+            "item": "Choice Band",            
+            "nature": "Quiet",
             "ability": "Thick Fat",
             "moves": [
                 "Earthquake",
@@ -3877,6 +4177,30 @@ var SETDEX_DPP = {
                 "Thunder Wave"
             ]
 		},
+        "Lucas 3 - Piplup Starter": {
+            "level": 44,
+            "item": "Wise Glasses",            
+            "nature": "Quiet",
+            "ability": "Volt Absorb",
+            "moves": [
+                "Thunder",
+                "Shadow Ball",
+                "Extrasensory",
+                "Thunder Wave"
+            ]
+		},
+        "Lucas 4 - Piplup Starter": {
+            "level": 69,
+            "item": "Shuca Berry",            
+            "nature": "Naive",
+            "ability": "Volt Absorb",
+            "moves": [
+                "Thunderbolt",
+                "Grass Knot",
+                "Shadow Ball",
+                "Thunder Wave"
+            ]
+		},
         "Leader Volkner": {
             "level": 61,
             "item": "Focus Sash",            
@@ -4951,6 +5275,30 @@ var SETDEX_DPP = {
 				"Volt Tackle"
             ]	
         },
+        "Lucas 3 - Turtwig starter": {
+            "level": 44,      
+            "item": "Muscle Band", 			
+            "nature": "Naughty",
+            "ability": "Flash Fire",
+            "moves": [
+                "Flare Blitz",
+                "Play Rough",
+				"Close Combat",
+				"Will-O-Wisp"
+            ]	
+        },
+        "Lucas 4 - Turtwig starter": {
+            "level": 69,      
+            "item": "Passho Berry", 			
+            "nature": "Lonely",
+            "ability": "Flash Fire",
+            "moves": [
+                "Flare Blitz",
+                "Play Rough",
+				"Close Combat",
+				"Volt Tackle"
+            ]	
+        },
         "Elite Four Flint Team 1": {
             "level": 73,      
             "item": "Choice Band", 			
@@ -5793,6 +6141,17 @@ var SETDEX_DPP = {
         "Dawn 2 - Piplup Starter": {
             "level": 30,      		
             "nature": "Lonely",
+            "ability": "Iron Fist",
+            "moves": [
+                "Flamethrower",
+                "Fake Out",
+				"Mach Punch",
+				"Grass Knot"
+            ]	
+		},
+        "Lucas 2 - Piplup Starter": {
+            "level": 30,      		
+            "nature": "Docile",
             "ability": "Iron Fist",
             "moves": [
                 "Flamethrower",
