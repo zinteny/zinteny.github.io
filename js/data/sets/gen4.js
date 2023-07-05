@@ -1201,6 +1201,7 @@ var SETDEX_DPP = {
             "item": "Wacan Berry",            
             "nature": "Modest",
             "ability": "Unburden",
+            "ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30},
             "moves": [
                 "Shadow Ball",
                 "Hurricane",
@@ -1657,6 +1658,7 @@ var SETDEX_DPP = {
             "item": "Choice Scarf",            
             "nature": "Adamant",
             "ability": "Guts",
+            "ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30},
             "moves": [
                 "Megahorn",
                 "Close Combat",
@@ -2447,6 +2449,7 @@ var SETDEX_DPP = {
             "item": "Scope Lens",            
             "nature": "Jolly",
             "ability": "Steadfast",
+            "ivs":{"hp":29,"at":29,"df":29,"sa":29,"sd":29,"sp":29},
             "moves": [
                 "Psycho Cut",
                 "Night Slash",
@@ -2904,6 +2907,7 @@ var SETDEX_DPP = {
             "item": "Sitrus Berry",            
             "nature": "Careful",
             "ability": "Water Absorb",
+            "ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30},
             "moves": [
                 "Aqua Tail",
                 "Earthquake",
@@ -2965,6 +2969,7 @@ var SETDEX_DPP = {
             "level": 42,          
             "nature": "Impish",
             "ability": "Intimidate",
+            "ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30},
             "moves": [
                 "Aqua Tail",
                 "Ice Fang",
@@ -3266,6 +3271,7 @@ var SETDEX_DPP = {
             "item": "Focus Sash",            
             "nature": "Timid",
             "ability": "Magic Guard",
+            "ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30},
             "moves": [
                 "Psychic",
                 "Aura Sphere",
@@ -3461,6 +3467,7 @@ var SETDEX_DPP = {
             "item": "Passho Berry",            
             "nature": "Jolly",
             "ability": "Thick Fat",
+            "ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30},
             "moves": [
                 "Earthquake",
                 "Icicle Crash",
@@ -3623,6 +3630,7 @@ var SETDEX_DPP = {
             "item": "Leftovers",   			
             "nature": "Brave",
             "ability": "Overgrow",
+            "ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30},
             "moves": [
                 "Wood Hammer",
                 "Earthquake",
@@ -3634,6 +3642,7 @@ var SETDEX_DPP = {
             "level": 42,          
             "nature": "Mild",
             "ability": "Overgrow",
+            "ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30},
             "moves": [
                 "Seed Bomb",
                 "Earthquake",
@@ -3937,6 +3946,7 @@ var SETDEX_DPP = {
             "item": "Muscle Band",            
             "nature": "Naughty",
             "ability": "Iron Fist",
+            "ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30},
             "moves": [
                 "Meteor Mash",
                 "Earthquake",
@@ -4004,6 +4014,7 @@ var SETDEX_DPP = {
             "item": "Flame Orb",            
             "nature": "Naughty",
             "ability": "Guts",
+            "ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30},
             "moves": [
                 "Strength",
                 "Close Combat",
@@ -4094,6 +4105,7 @@ var SETDEX_DPP = {
             "item": "Muscle Band",            
             "nature": "Sassy",
             "ability": "Rock Head",
+            "ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30},
             "moves": [
                 "Iron Tail",
                 "Earthquake",
@@ -4227,6 +4239,7 @@ var SETDEX_DPP = {
             "item": "Wise Glasses",            
             "nature": "Timid",
             "ability": "Speed Boost",
+            "ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30},
             "moves": [
                 "Bug Buzz",
                 "Hurricane",
@@ -4496,6 +4509,7 @@ var SETDEX_DPP = {
             "item": "Choice Band",            
             "nature": "Naughty",
             "ability": "Solid Rock",
+            "ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30},
             "moves": [
                 "Stone Edge",
                 "Earthquake",
@@ -4535,6 +4549,7 @@ var SETDEX_DPP = {
             "item": "Life Orb",            
             "nature": "Modest",
             "ability": "Flame Body",
+            "ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30},
             "moves": [
                 "Fire Blast",
                 "Thunderbolt",
@@ -4826,8 +4841,9 @@ var SETDEX_DPP = {
             "level": 42,           
             "nature": "Bashful",
             "ability": "Illuminate",
+            "ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30},
             "moves": [
-                "Brine",
+                "Scald",
                 "Power Gem",
                 "Grass Knot",
                 "Psychic"
@@ -4861,6 +4877,7 @@ var SETDEX_DPP = {
             "item": "Life Orb",            
             "nature": "Modest",
             "ability": "Illuminate",
+            "ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30},
             "moves": [
                 "Hydro Pump",
                 "Ice Beam",
@@ -4957,6 +4974,7 @@ var SETDEX_DPP = {
 			"item": "Wise Glasses",
             "nature": "Timid",
             "ability": "Synchronize",
+            "ivs":{"hp":29,"at":29,"df":29,"sa":29,"sd":29,"sp":29},
             "moves": [
                 "Psychic",
                 "Moonblast",
@@ -4971,6 +4989,7 @@ var SETDEX_DPP = {
             "level": 42,           
             "nature": "Impish",
             "ability": "Poison Heal",
+            "ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30},
             "moves": [
                 "Earthquake",
                 "X-Scissor",
@@ -5009,6 +5028,7 @@ var SETDEX_DPP = {
             "level": 42,           
             "nature": "Relaxed",
             "ability": "Chlorophyll",
+            "ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30},
             "moves": [
                 "Leaf Blade",
                 "Sludge Bomb"
@@ -5021,6 +5041,7 @@ var SETDEX_DPP = {
             "level": 42,           
             "nature": "Hardy",
             "ability": "Adaptability",
+            "ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30},
             "moves": [
                 "Lava Plume",
                 "Thunder Punch",
@@ -5069,6 +5090,7 @@ var SETDEX_DPP = {
             "level": 42,           
             "nature": "Quiet",
             "ability": "Static",
+            "ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30},
             "moves": [
                 "Thunderbolt",
                 "Dragon Pulse",
@@ -5095,6 +5117,7 @@ var SETDEX_DPP = {
             "level": 42,           
             "nature": "Relaxed",
             "ability": "Technician",
+            "ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30},
             "moves": [
                 "Covet",
                 "Fake Out",
@@ -5133,6 +5156,7 @@ var SETDEX_DPP = {
 			"item": "Heat Rock",
             "nature": "Naive",
             "ability": "Flame Body",
+            "ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30},
             "moves": [
                 "Flare Blitz",
                 "Wild Charge",
@@ -5500,6 +5524,7 @@ var SETDEX_DPP = {
             "item": "Leftovers", 			
             "nature": "Brave",
             "ability": "Intimidate",
+            "ivs":{"hp":29,"at":29,"df":29,"sa":29,"sd":29,"sp":29},
             "moves": [
                 "Attack Order",
                 "Defend Order",
@@ -5515,6 +5540,7 @@ var SETDEX_DPP = {
             "item": "Choice Band", 			
             "nature": "Naughty",
             "ability": "Battle Armor",
+            "ivs":{"hp":29,"at":29,"df":29,"sa":29,"sd":29,"sp":29},
             "moves": [
                 "X-Scissor",
                 "Stone Edge",
@@ -5746,6 +5772,7 @@ var SETDEX_DPP = {
             "item": "Choice Band", 			
             "nature": "Naughty",
             "ability": "Sand Veil",
+            "ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30},
             "moves": [
                 "Stone Edge",
                 "Night Slash",
@@ -5819,7 +5846,7 @@ var SETDEX_DPP = {
                 "Flare Blitz",
                 "Play Rough",
 				"Close Combat",
-				"Volt Tackle"
+				"Wild Charge"
             ]	
         },
         "Lucas 3 - Turtwig Starter": {
@@ -5843,7 +5870,7 @@ var SETDEX_DPP = {
                 "Flare Blitz",
                 "Play Rough",
 				"Close Combat",
-				"Volt Tackle"
+				"Wild Charge"
             ]	
         },
         "Elite Four Flint Team 1": {
@@ -5866,6 +5893,7 @@ var SETDEX_DPP = {
             "item": "Focus Sash", 			
             "nature": "Hasty",
             "ability": "Scrappy",
+            "ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30},
             "moves": [
                 "High Jump Kick",
                 "Mega Kick",
@@ -6239,6 +6267,7 @@ var SETDEX_DPP = {
             "item": "Leftovers", 			
             "nature": "Bold",
             "ability": "Marvel Scale",
+            "ivs":{"hp":29,"at":29,"df":29,"sa":29,"sd":29,"sp":29},
             "moves": [
                 "Scald",
                 "Ice Beam",
@@ -6290,6 +6319,7 @@ var SETDEX_DPP = {
             "item": "Yache Berry", 			
             "nature": "Hasty",
             "ability": "Rough Skin",
+            "ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30},
             "moves": [
                 "Earthquake",
                 "Outrage",
