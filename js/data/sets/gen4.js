@@ -414,10 +414,22 @@ var SETDEX_DPP = {
             ]   
 
         },
-        "Lucas 2 - Chimchar Starter": {
+        "Rival Barry 2 - Piplup Starter": {
+            "level": 33,
+            "item": "Sitrus Berry",
+            "nature": "Brave",
+            "ability": "Overgrow",
+            "moves": [
+                "Seed Bomb",
+                "Crunch",
+                "Leech Seed",
+                "Protect"
+            ]             
+        },
+        "Dawn 2 - Chimchar Starter": {
             "level": 30,
             "item": "Sitrus Berry",
-            "nature": "Relaxed",
+            "nature": "Quirky",
             "ability": "Overgrow",
             "moves": [
                 "Seed Bomb",
@@ -426,10 +438,10 @@ var SETDEX_DPP = {
                 "Bulldoze"
             ]             
         },
-        "Dawn 2 - Chimchar Starter": {
+        "Lucas 2 - Chimchar Starter": {
             "level": 30,
             "item": "Sitrus Berry",      		
-            "nature": "Quirky",
+            "nature": "Relaxed",
             "ability": "Overgrow",
             "moves": [
                 "Seed Bomb",
@@ -441,22 +453,10 @@ var SETDEX_DPP = {
     },
     
     "Breloom": {
-        "Leader Gardenia": {
-            "level": 25,
-            "item": "Muscle Band",
-            "nature": "Naughty",
-            "ability": "Technician",
-            "moves": [
-                "Bullet Seed",
-                "Mach Punch",
-                "Thunder Punch",
-                "Spore"
-            ]
-        },
-        "Rival Barry 3": {
+        "Rival Barry 3 - Chimchar Starter": {
             "level": 41,
             "item": "Focus Sash",            
-            "nature": "Modest",
+            "nature": "Bold",
             "ability": "Technician",
             "moves": [
                 "Bullet Seed",
@@ -465,7 +465,7 @@ var SETDEX_DPP = {
                 "Rock Tomb"
             ] 	
         },
-        "Rival Barry 4": {
+        "Rival Barry 4 - Chimchar Starter": {
             "level": 48,
             "item": "Focus Sash",            
             "nature": "Hasty",
@@ -477,10 +477,10 @@ var SETDEX_DPP = {
                 "Stone Edge"
             ]
         },
-        "Rival Barry 5": {
+        "Rival Barry 5 - Chimchar Starter": {
             "level": 70,
             "item": "Life Orb",            
-            "nature": "Brave",
+            "nature": "Hasty",
             "ability": "Technician",
             "moves": [
                 "Bullet Seed",
@@ -488,6 +488,54 @@ var SETDEX_DPP = {
                 "Spore",
                 "Stone Edge"
             ] 
+        },
+        "Rival Barry 3 - Turtwig Starter": {
+            "level": 41,
+            "item": "Focus Sash",            
+            "nature": "Bold",
+            "ability": "Technician",
+            "moves": [
+                "Bullet Seed",
+                "Force Palm",
+                "Spore",
+                "Rock Tomb"
+            ] 	
+        },
+        "Rival Barry 4 - Turtwig Starter": {
+            "level": 48,
+            "item": "Focus Sash",            
+            "nature": "Lonely",
+            "ability": "Technician",
+            "moves": [
+                "Bullet Seed",
+                "Force Palm",
+                "Spore",
+                "Stone Edge"
+            ]
+        },
+        "Rival Barry 5 - Turtwig Starter": {
+            "level": 70,
+            "item": "Life Orb",            
+            "nature": "Quiet",
+            "ability": "Technician",
+            "moves": [
+                "Bullet Seed",
+                "Force Palm",
+                "Spore",
+                "Stone Edge"
+            ] 
+        },
+        "Leader Gardenia": {
+            "level": 25,
+            "item": "Muscle Band",
+            "nature": "Naughty",
+            "ability": "Technician",
+            "moves": [
+                "Bullet Seed",
+                "Mach Punch",
+                "Thunder Punch",
+                "Spore"
+            ]
         },
         "Black Belt Eddie": {
             "level": 64,         
@@ -1343,7 +1391,7 @@ var SETDEX_DPP = {
     },
 
     "Staravia": {
-        "Rival Barry 2": {
+        "Rival Barry 2 - Chimchar Starter": {
             "level": 32,
             "item": "Muscle Band",            
             "nature": "Quiet",
@@ -1354,11 +1402,110 @@ var SETDEX_DPP = {
                 "Double Team",
                 "Endeavor"
             ]      
+        },
+        "Rival Barry 2 - Turtwig Starter": {
+            "level": 32,
+            "item": "Muscle Band",            
+            "nature": "Careful",
+            "ability": "Reckless",
+            "moves": [
+                "Facade",
+                "Aerial Ace",
+                "Double Team",
+                "Endeavor"
+            ]      
+        },
+        "Rival Barry 2 - Piplup Starter": {
+            "level": 32,
+            "item": "Muscle Band",            
+            "nature": "Naughty",
+            "ability": "Reckless",
+            "moves": [
+                "Facade",
+                "Aerial Ace",
+                "Double Team",
+                "Endeavor"
+            ]      
+        }
+    },
+
+    "Azumarill": {
+        "Rival Barry 3 - Turtwig Starter": {
+            "level": 41,
+            "item": "Life Orb",            
+            "nature": "Mild",
+            "ability": "Huge Power",
+            "moves": [
+                "Aqua Tail",
+                "Play Rough",
+                "Body Slam",
+                "Aqua Jet"
+            ]      
+        },
+        "Rival Barry 4 - Turtwig Starter": {
+            "level": 48,
+            "item": "Life Orb",            
+            "nature": "Serious",
+            "ability": "Huge Power",
+            "moves": [
+                "Aqua Tail",
+                "Play Rough",
+                "Ice Punch",
+                "Aqua Jet"
+            ]      
+        },
+        "Rival Barry 5 - Turtwig Starter": {
+            "level": 70,
+            "item": "Life Orb",            
+            "nature": "Sassy",
+            "ability": "Huge Power",
+            "moves": [
+                "Aqua Tail",
+                "Play Rough",
+                "Ice Punch",
+                "Aqua Jet"
+            ]      
+        },
+        "Rival Barry 3 - Piplup Starter": {
+            "level": 41,
+            "item": "Life Orb",            
+            "nature": "Docile",
+            "ability": "Huge Power",
+            "moves": [
+                "Aqua Tail",
+                "Play Rough",
+                "Body Slam",
+                "Aqua Jet"
+            ]      
+        },
+        "Rival Barry 4 - Piplup Starter": {
+            "level": 48,
+            "item": "Life Orb",            
+            "nature": "Serious",
+            "ability": "Huge Power",
+            "moves": [
+                "Aqua Tail",
+                "Play Rough",
+                "Ice Punch",
+                "Aqua Jet"
+            ]      
+        },
+        "Rival Barry 5 - Piplup Starter": {
+            "level": 70,
+            "item": "Life Orb",            
+            "nature": "Serious",
+            "ability": "Huge Power",
+            "moves": [
+                "Aqua Tail",
+                "Play Rough",
+                "Ice Punch",
+                "Aqua Jet"
+            ]      
         }
     },
 
     "Heracross": {
-        "Rival Barry 2": {
+        "Rival Barry 2 - Chimchar Starter": {
             "level": 32,
             "item": "Coba Berry",            
             "nature": "Timid",
@@ -1371,7 +1518,7 @@ var SETDEX_DPP = {
             ]  
 			
         },	
-        "Rival Barry 3": {
+        "Rival Barry 3 - Chimchar Starter": {
             "level": 41,
             "item": "Coba Berry",            
             "nature": "Quirky",
@@ -1383,7 +1530,7 @@ var SETDEX_DPP = {
                 "Night Slash"
             ]  
 		 },	
-        "Rival Barry 4": {
+        "Rival Barry 4 - Chimchar Starter": {
             "level": 48,
             "item": "Muscle Band",            
             "nature": "Naive",
@@ -1395,7 +1542,7 @@ var SETDEX_DPP = {
                 "Night Slash"
             ] 
 		 },	
-        "Rival Barry 5": {
+        "Rival Barry 5 - Chimchar Starter": {
             "level": 70,
             "item": "Toxic Orb",            
             "nature": "Naive",
@@ -1406,7 +1553,105 @@ var SETDEX_DPP = {
                 "Stone Edge",
                 "Protect"
             ] 	
+		 },
+         "Rival Barry 2 - Turtwig Starter": {
+            "level": 32,
+            "item": "Coba Berry",            
+            "nature": "Mild",
+            "ability": "Guts",
+            "moves": [
+                "Bug Bite",
+                "Brick Break",
+                "Aerial Ace",
+                "Knock Off"
+            ]  
+			
+        },	
+        "Rival Barry 3 - Turtwig Starter": {
+            "level": 41,
+            "item": "Coba Berry",            
+            "nature": "Naive",
+            "ability": "Guts",
+            "moves": [
+                "Megahorn",
+                "Brick Break",
+                "Bullet Seed",
+                "Night Slash"
+            ]  
 		 },	
+        "Rival Barry 4 - Turtwig Starter": {
+            "level": 48,
+            "item": "Muscle Band",            
+            "nature": "Calm",
+            "ability": "Guts",
+            "moves": [
+                "Megahorn",
+                "Close Combat",
+                "Rock Slide",
+                "Night Slash"
+            ] 
+		 },	
+        "Rival Barry 5 - Turtwig Starter": {
+            "level": 70,
+            "item": "Toxic Orb",            
+            "nature": "Calm",
+            "ability": "Guts",
+            "moves": [
+                "Megahorn",
+                "Close Combat",
+                "Stone Edge",
+                "Protect"
+            ] 	
+		 },
+         "Rival Barry 2 - Piplup Starter": {
+            "level": 32,
+            "item": "Coba Berry",            
+            "nature": "Mild",
+            "ability": "Guts",
+            "moves": [
+                "Bug Bite",
+                "Brick Break",
+                "Aerial Ace",
+                "Knock Off"
+            ]  
+			
+        },	
+        "Rival Barry 3 - Piplup Starter": {
+            "level": 41,
+            "item": "Coba Berry",            
+            "nature": "Naive",
+            "ability": "Guts",
+            "moves": [
+                "Megahorn",
+                "Brick Break",
+                "Bullet Seed",
+                "Night Slash"
+            ]  
+		 },	
+        "Rival Barry 4 - Piplup Starter": {
+            "level": 48,
+            "item": "Muscle Band",            
+            "nature": "Lonely",
+            "ability": "Guts",
+            "moves": [
+                "Megahorn",
+                "Close Combat",
+                "Rock Slide",
+                "Night Slash"
+            ] 
+		 },	
+        "Rival Barry 5 - Piplup Starter": {
+            "level": 70,
+            "item": "Toxic Orb",            
+            "nature": "Calm",
+            "ability": "Guts",
+            "moves": [
+                "Megahorn",
+                "Close Combat",
+                "Stone Edge",
+                "Protect"
+            ] 	
+		 },
         "Elite Four Aaron Team 1": {
             "level": 71,
             "item": "Choice Scarf",            
@@ -1456,7 +1701,7 @@ var SETDEX_DPP = {
     },
 
     "Snorlax": {
-        "Rival Barry 2": {
+        "Rival Barry 2 - Chimchar Starter": {
             "level": 32,
             "item": "Leftovers",            
             "nature": "Naughty",
@@ -1467,10 +1712,9 @@ var SETDEX_DPP = {
                 "Amnesia",
                 "Rock Slide"
             ]   
-			
-						
+							
         },	
-        "Rival Barry 3": {
+        "Rival Barry 3 - Chimchar Starter": {
             "level": 41,
             "item": "Leftovers",            
             "nature": "Gentle",
@@ -1482,7 +1726,7 @@ var SETDEX_DPP = {
                 "Sleep Talk"
             ]  
         },	
-        "Rival Barry 4": {
+        "Rival Barry 4 - Chimchar Starter": {
             "level": 48,
             "item": "Leftovers",            
             "nature": "Impish",
@@ -1494,10 +1738,108 @@ var SETDEX_DPP = {
                 "Slack Off"
             ] 	
         },	
-        "Rival Barry 5": {
+        "Rival Barry 5 - Chimchar Starter": {
             "level": 70,
             "item": "Leftovers",            
             "nature": "Impish",
+            "ability": "Thick Fat",
+            "moves": [
+                "Body Slam",
+                "Earthquake",
+                "Curse",
+                "Slack Off"
+            ] 			
+        },
+        "Rival Barry 2 - Turtwig Starter": {
+            "level": 32,
+            "item": "Leftovers",            
+            "nature": "Naughty",
+            "ability": "Thick Fat",
+            "moves": [
+                "Body Slam",
+                "Yawn",
+                "Amnesia",
+                "Rock Slide"
+            ]   
+							
+        },	
+        "Rival Barry 3 - Turtwig Starter": {
+            "level": 41,
+            "item": "Leftovers",            
+            "nature": "Brave",
+            "ability": "Thick Fat",
+            "moves": [
+                "Body Slam",
+                "Crunch",
+                "Rest",
+                "Sleep Talk"
+            ]  
+        },	
+        "Rival Barry 4 - Turtwig Starter": {
+            "level": 48,
+            "item": "Leftovers",            
+            "nature": "Naive",
+            "ability": "Thick Fat",
+            "moves": [
+                "Body Slam",
+                "Crunch",
+                "Curse",
+                "Slack Off"
+            ] 	
+        },	
+        "Rival Barry 5 - Turtwig Starter": {
+            "level": 70,
+            "item": "Leftovers",            
+            "nature": "Impish",
+            "ability": "Thick Fat",
+            "moves": [
+                "Body Slam",
+                "Earthquake",
+                "Curse",
+                "Slack Off"
+            ] 			
+        },
+        "Rival Barry 2 - Piplup Starter": {
+            "level": 32,
+            "item": "Leftovers",            
+            "nature": "Lax",
+            "ability": "Thick Fat",
+            "moves": [
+                "Body Slam",
+                "Yawn",
+                "Amnesia",
+                "Rock Slide"
+            ]   
+							
+        },	
+        "Rival Barry 3 - Piplup Starter": {
+            "level": 41,
+            "item": "Leftovers",            
+            "nature": "Impish",
+            "ability": "Thick Fat",
+            "moves": [
+                "Body Slam",
+                "Crunch",
+                "Rest",
+                "Sleep Talk"
+            ]  
+        },	
+        "Rival Barry 4 - Piplup Starter": {
+            "level": 48,
+            "item": "Leftovers",            
+            "nature": "Careful",
+            "ability": "Thick Fat",
+            "moves": [
+                "Body Slam",
+                "Crunch",
+                "Curse",
+                "Slack Off"
+            ] 	
+        },	
+        "Rival Barry 5 - Piplup Starter": {
+            "level": 70,
+            "item": "Leftovers",            
+            "nature": "Naive",
             "ability": "Thick Fat",
             "moves": [
                 "Body Slam",
@@ -1521,10 +1863,10 @@ var SETDEX_DPP = {
                 "Aerial Ace"
             ]   
         },
-        "Lucas 2 - Turtwig Starter": {
+        "Dawn 2 - Turtwig Starter": {
             "level": 30,
             "item": "Sitrus Berry",            
-            "nature": "Bold",
+            "nature": "Adamant",
             "ability": "Torrent",
             "moves": [
                 "Bubble Beam",
@@ -1533,10 +1875,10 @@ var SETDEX_DPP = {
                 "Shadow Claw"
             ]
         },
-        "Dawn 2 - Turtwig Starter": {
+        "Lucas 2 - Turtwig Starter": {
             "level": 30,
             "item": "Sitrus Berry",            
-            "nature": "Adamant",
+            "nature": "Bold",
             "ability": "Torrent",
             "moves": [
                 "Bubble Beam",
@@ -1906,7 +2248,43 @@ var SETDEX_DPP = {
     },
 
     "Infernape": {
-        "Dawn 3 - Piplup Start": {
+        "Rival Barry 3 - Turtwig Starter": {
+            "level": 42,
+            "item": "Sitrus Berry",            
+            "nature": "Quiet",
+            "ability": "Iron Fist",
+            "moves": [
+                "Flamethrower",
+                "Close Combat",
+                "Fake Out",
+                "Thunder Punch"
+            ]   
+        },
+        "Rival Barry 4 - Turtwig Starter": {
+            "level": 49,
+            "item": "Sitrus Berry",            
+            "nature": "Naughty",
+            "ability": "Iron Fist",
+            "moves": [
+                "Fire Blast",
+                "Close Combat",
+                "Fake Out",
+                "Thunder Punch"
+            ]   
+        },
+        "Rival Barry 5 - Turtwig Starter": {
+            "level": 71,
+            "item": "Sitrus Berry",            
+            "nature": "Careful",
+            "ability": "Iron Fist",
+            "moves": [
+                "Fire Blast",
+                "Close Combat",
+                "Stone Edge",
+                "Grass Knot"
+            ]   
+        },
+        "Dawn 3 - Piplup Starter": {
             "level": 45,
             "item": "Sitrus Berry",            
             "nature": "Bold",
@@ -1918,7 +2296,7 @@ var SETDEX_DPP = {
                 "Rock Slide"
             ]   
         },
-        "Dawn 4 - Piplup Start": {
+        "Dawn 4 - Piplup Starter": {
             "level": 70,
             "item": "Sitrus Berry",            
             "nature": "Rash",
@@ -1930,7 +2308,7 @@ var SETDEX_DPP = {
                 "Thunder Punch"
             ]   
         },
-        "Lucas 3 - Piplup Start": {
+        "Lucas 3 - Piplup Starter": {
             "level": 45,
             "item": "Sitrus Berry",            
             "nature": "Modest",
@@ -1942,7 +2320,7 @@ var SETDEX_DPP = {
                 "Rock Slide"
             ]   
         },
-        "Lucas 4 - Piplup Start": {
+        "Lucas 4 - Piplup Starter": {
             "level": 70,
             "item": "Sitrus Berry",            
             "nature": "Serious",
@@ -2142,7 +2520,7 @@ var SETDEX_DPP = {
     },
 
     "Staraptor": {
-        "Rival Barry 3": {
+        "Rival Barry 3 - Chimchar Starter": {
             "level": 41,
             "item": "Muscle Band",            
             "nature": "Hardy",
@@ -2153,6 +2531,102 @@ var SETDEX_DPP = {
                 "Aerial Ace",
                 "Roost"
             ]   
+        },
+        "Rival Barry 4 - Chimchar Starter": {
+            "level": 48,
+            "item": "Choice Band",            
+            "nature": "Gentle",
+            "ability": "Reckless",
+            "moves": [
+                "Double-Edge",
+                "Brave Bird",
+                "Close Combat",
+                "U-turn"
+            ] 	
+        },
+        "Rival Barry 5 - Chimchar Starter": {
+            "level": 70,
+            "item": "Choice Scarf",            
+            "nature": "Serious",
+            "ability": "Reckless",
+            "moves": [
+                "Double-Edge",
+                "Brave Bird",
+                "Close Combat",
+                "U-turn"
+            ] 	
+        },
+        "Rival Barry 3 - Turtwig Starter": {
+            "level": 41,
+            "item": "Muscle Band",            
+            "nature": "Modest",
+            "ability": "Reckless",
+            "moves": [
+                "Double-Edge",
+                "Close Combat",
+                "Aerial Ace",
+                "Roost"
+            ]   
+        },
+        "Rival Barry 4 - Turtwig Starter": {
+            "level": 48,
+            "item": "Choice Band",            
+            "nature": "Brave",
+            "ability": "Reckless",
+            "moves": [
+                "Double-Edge",
+                "Brave Bird",
+                "Close Combat",
+                "U-turn"
+            ] 	
+        },
+        "Rival Barry 5 - Turtwig Starter": {
+            "level": 70,
+            "item": "Choice Scarf",            
+            "nature": "Gentle",
+            "ability": "Reckless",
+            "moves": [
+                "Double-Edge",
+                "Brave Bird",
+                "Close Combat",
+                "U-turn"
+            ] 	
+        },
+        "Rival Barry 3 - Piplup Starter": {
+            "level": 41,
+            "item": "Muscle Band",            
+            "nature": "Gentle",
+            "ability": "Reckless",
+            "moves": [
+                "Double-Edge",
+                "Close Combat",
+                "Aerial Ace",
+                "Roost"
+            ]   
+        },
+        "Rival Barry 4 - Piplup Starter": {
+            "level": 48,
+            "item": "Choice Band",            
+            "nature": "Brave",
+            "ability": "Reckless",
+            "moves": [
+                "Double-Edge",
+                "Brave Bird",
+                "Close Combat",
+                "U-turn"
+            ] 	
+        },
+        "Rival Barry 5 - Piplup Starter": {
+            "level": 70,
+            "item": "Choice Scarf",            
+            "nature": "Brave",
+            "ability": "Reckless",
+            "moves": [
+                "Double-Edge",
+                "Brave Bird",
+                "Close Combat",
+                "U-turn"
+            ] 	
         },
         "Castle Valet Darach": {
             "level": 48,
@@ -2166,41 +2640,6 @@ var SETDEX_DPP = {
                 "Roost"
             ] 
         },
-        "Rival Barry 4": {
-            "level": 48,
-            "item": "Choice Band",            
-            "nature": "Gentle",
-            "ability": "Reckless",
-            "moves": [
-                "Double-Edge",
-                "Brave Bird",
-                "Close Combat",
-                "U-turn"
-            ] 	
-        },
-        "Rival Barry 5": {
-            "level": 70,
-            "item": "Choice Scarf",            
-            "nature": "Serious",
-            "ability": "Reckless",
-            "moves": [
-                "Double-Edge",
-                "Brave Bird",
-                "Close Combat",
-                "U-turn"
-            ] 	
-        },
-        "Veteran Clayton": {
-            "level": 64,        
-            "nature": "Rash",
-            "ability": "Reckless",
-            "moves": [
-                "Double-Edge",
-                "Brave Bird",
-                "Close Combat",
-                "U-turn"
-            ] 	
-        },
         "Champion Cynthia Team 2": {
             "level": 77, 
 			"item": "Choice Scarf",
@@ -2212,14 +2651,25 @@ var SETDEX_DPP = {
                 "Close Combat",
                 "U-turn"
             ] 			
+        },
+        "Veteran Clayton": {
+            "level": 64,        
+            "nature": "Rash",
+            "ability": "Reckless",
+            "moves": [
+                "Double-Edge",
+                "Brave Bird",
+                "Close Combat",
+                "U-turn"
+            ] 	
         }		
     },
 
     "Arcanine": {
-        "Rival Barry 3": {
+        "Rival Barry 3 - Chimchar Starter": {
             "level": 41,
             "item": "Expert Belt",            
-            "nature": "Bold",
+            "nature": "Modest",
             "ability": "Intimidate",
             "moves": [
                 "Heat Wave",
@@ -2228,7 +2678,7 @@ var SETDEX_DPP = {
                 "Crunch"
             ] 	
         },
-        "Rival Barry 4": {
+        "Rival Barry 4 - Chimchar Starter": {
             "level": 48,
             "item": "Expert Belt",            
             "nature": "Hasty",
@@ -2240,10 +2690,34 @@ var SETDEX_DPP = {
                 "Close Combat"
             ]
         },
-        "Marley": {
-            "level": 66,
-            "item": "Sitrus Berry",            
-            "nature": "Hardy",
+        "Rival Barry 5 - Chimchar Starter": {
+            "level": 70,
+            "item": "Life Orb",            
+            "nature": "Brave",
+            "ability": "Intimidate",
+            "moves": [
+                "Flare Blitz",
+                "Wild Charge",
+                "Crunch",
+                "Close Combat"
+            ]
+        },
+        "Rival Barry 3 - Piplup Starter": {
+            "level": 41,
+            "item": "Expert Belt",            
+            "nature": "Hasty",
+            "ability": "Intimidate",
+            "moves": [
+                "Heat Wave",
+                "Thunder Fang",
+                "Outrage",
+                "Crunch"
+            ] 	
+        },
+        "Rival Barry 4 - Piplup Starter": {
+            "level": 48,
+            "item": "Expert Belt",            
+            "nature": "Quiet",
             "ability": "Intimidate",
             "moves": [
                 "Flare Blitz",
@@ -2252,10 +2726,10 @@ var SETDEX_DPP = {
                 "Close Combat"
             ]
         },
-        "Rival Barry 5": {
+        "Rival Barry 5 - Piplup Starter": {
             "level": 70,
             "item": "Life Orb",            
-            "nature": "Hasty",
+            "nature": "Quiet",
             "ability": "Intimidate",
             "moves": [
                 "Flare Blitz",
@@ -2287,11 +2761,23 @@ var SETDEX_DPP = {
                 "Crunch",
                 "Extreme Speed"
             ]				
+        },
+        "Marley": {
+            "level": 66,
+            "item": "Sitrus Berry",            
+            "nature": "Hardy",
+            "ability": "Intimidate",
+            "moves": [
+                "Flare Blitz",
+                "Extreme Speed",
+                "Crunch",
+                "Close Combat"
+            ]
         }		
     },
 
     "Empoleon": {
-        "Rival Barry 3": {
+        "Rival Barry 3 - Chimchar Starter": {
             "level": 42,
             "item": "Sitrus Berry",            
             "nature": "Gentle",
@@ -2302,6 +2788,30 @@ var SETDEX_DPP = {
                 "Agility",
                 "Swagger"
             ] 	
+        },
+        "Rival Barry 4 - Chimchar Starter": {
+            "level": 49,
+            "item": "Sitrus Berry",            
+            "nature": "Brave",
+            "ability": "Torrent",
+            "moves": [
+                "Surf",
+                "Flash Cannon",
+                "Grass Knot",
+                "Agility"
+            ] 	
+        },
+        "Rival Barry 5 - Chimchar Starter": {
+            "level": 71,
+            "item": "Sitrus Berry",            
+            "nature": "Brave",
+            "ability": "Torrent",
+            "moves": [
+                "Hydro Pump",
+                "Flash Cannon",
+                "Grass Knot",
+                "Blizzard"
+            ] 
         },
         "Dawn 3 - Turtwig Starter": {
             "level": 45,
@@ -2362,30 +2872,6 @@ var SETDEX_DPP = {
                 "Ice Beam",
                 "Aqua Jet"
             ] 	
-        },
-        "Rival Barry 4": {
-            "level": 49,
-            "item": "Sitrus Berry",            
-            "nature": "Brave",
-            "ability": "Torrent",
-            "moves": [
-                "Surf",
-                "Flash Cannon",
-                "Grass Knot",
-                "Agility"
-            ] 	
-        },
-        "Rival Barry 5": {
-            "level": 71,
-            "item": "Sitrus Berry",            
-            "nature": "Brave",
-            "ability": "Torrent",
-            "moves": [
-                "Hydro Pump",
-                "Flash Cannon",
-                "Grass Knot",
-                "Blizzard"
-            ] 
         },
         "Veteran Edgar": {
             "level": 64,        
@@ -3036,6 +3522,42 @@ var SETDEX_DPP = {
     },
 
     "Torterra": {
+        "Rival Barry 3 - Piplup Starter": {
+            "level": 42,
+            "item": "Sitrus Berry",            
+            "nature": "Rash",
+            "ability": "Overgrow",
+            "moves": [
+                "Seed Bomb",
+                "Earthquake",
+                "Crunch",
+                "Iron Head"
+            ]	
+        },
+        "Rival Barry 4 - Piplup Starter": {
+                "level": 49,
+                "item": "Sitrus Berry",            
+                "nature": "Hardy",
+                "ability": "Overgrow",
+                "moves": [
+                    "Wood Hammer",
+                    "Earthquake",
+                    "Crunch",
+                    "Iron Head"
+                ]	
+            },
+        "Rival Barry 5 - Piplup Starter": {
+            "level": 71,
+            "item": "Sitrus Berry",            
+            "nature": "Hardy",
+            "ability": "Overgrow",
+            "moves": [
+                "Wood Hammer",
+                "Earthquake",
+                "Stone Edge",
+                "Crunch"
+            ]	
+        },
         "Dawn 3 - Chimchar Starter": {
             "level": 45,
             "item": "Sitrus Berry",            
@@ -3083,29 +3605,7 @@ var SETDEX_DPP = {
                 "Iron Head",
                 "Stone Edge"
             ]	
-        },
-        "Ace Trainer Alyssa": {
-            "level": 42,          
-            "nature": "Mild",
-            "ability": "Overgrow",
-            "moves": [
-                "Seed Bomb",
-                "Earthquake",
-                "Iron Head",
-                "Crunch"
-            ]	
-        },
-        "Ace Trainer Sydney": {
-            "level": 63,          
-            "nature": "Lax",
-            "ability": "Overgrow",
-            "moves": [
-                "Wood Hammer",
-                "Earthquake",
-                "Iron Head",
-                "Crunch"
-            ]	
-        },
+        },        
         "Elite Four Bertha Team 2": {
             "level": 72,  
             "item": "Leftovers",   			
@@ -3129,6 +3629,28 @@ var SETDEX_DPP = {
                 "Stone Edge",
                 "Leech Seed"
             ]			
+        },
+        "Ace Trainer Alyssa": {
+            "level": 42,          
+            "nature": "Mild",
+            "ability": "Overgrow",
+            "moves": [
+                "Seed Bomb",
+                "Earthquake",
+                "Iron Head",
+                "Crunch"
+            ]	
+        },
+        "Ace Trainer Sydney": {
+            "level": 63,          
+            "nature": "Lax",
+            "ability": "Overgrow",
+            "moves": [
+                "Wood Hammer",
+                "Earthquake",
+                "Iron Head",
+                "Crunch"
+            ]	
         }		
     },
 
@@ -6163,6 +6685,17 @@ var SETDEX_DPP = {
     },
 
     "Monferno": {
+        "Rival Barry 2 - Piplup Starter": {
+            "level": 33,      		
+            "nature": "Hardy",
+            "ability": "Iron Fist",
+            "moves": [
+                "Flamethrower",
+                "Low Kick",
+				"Grass Knot",
+				"Fake Out"
+            ]	
+		},
         "Dawn 2 - Piplup Starter": {
             "level": 30,      		
             "nature": "Lonely",
