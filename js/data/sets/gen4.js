@@ -1,9 +1,30 @@
 var SETDEX_DPP = {
 
     "Starly": {
-        "Rival Barry 1": {
+        "Rival Barry 1 - Chimchar Starter": {
             "level": 10,
-            "nature": "Hasty",
+            "nature": "Hardy",
+            "ability": "Reckless",
+            "moves": [
+                "Wing Attack",
+                "Growl",
+                "Quick Attack"
+            ]
+        },
+        "Rival Barry 1 - Turtwig Starter": {
+            "level": 10,
+            "nature": "Docile",
+            "ability": "Reckless",
+            "moves": [
+                "Wing Attack",
+                "Growl",
+                "Quick Attack"
+            ]
+        },
+        "Rival Barry 1 - Piplup Starter": {
+            "level": 10,
+            "nature": "Gentle",
+            "ability": "Reckless",
             "moves": [
                 "Wing Attack",
                 "Growl",
@@ -13,9 +34,32 @@ var SETDEX_DPP = {
     },
 
     "Munchlax": {
-        "Rival Barry 1": {
+        "Rival Barry 1 - Chimchar Starter": {
             "level": 10,
             "nature": "Mild",
+            "ability": "Thick Fat",
+            "moves": [
+                "Metronome",
+                "Amnesia",
+                "Tackle",
+                "Rock Tomb"
+            ]
+        },
+        "Rival Barry 1 - Turtwig Starter": {
+            "level": 10,
+            "nature": "Mild",
+            "ability": "Thick Fat",
+            "moves": [
+                "Metronome",
+                "Amnesia",
+                "Tackle",
+                "Rock Tomb"
+            ]
+        },
+        "Rival Barry 1 - Piplup Starter": {
+            "level": 10,
+            "nature": "Docile",
+            "ability": "Thick Fat",
             "moves": [
                 "Metronome",
                 "Amnesia",
@@ -29,64 +73,45 @@ var SETDEX_DPP = {
         "Rival Barry 1": {
             "level": 11,
             "item": "Oran Berry",
+            "nature": "Rash",
+            "ability": "Overgrow",
             "moves": [
                 "Razor Leaf",
                 "Curse",
                 "Tackle"
             ]
 
-        },
-        "Dawn/Lucas 1": {
-            "level": 9,
-            "moves": [
-                "Tackle",
-                "Withdraw",
-                "Absorb",
-                "Razor Leaf"
-            ]
         }
     },
+    
     "Chimchar": {
-        "Rival Barry 1": {
+        "Rival Barry 1 - Turtwig Starter": {
             "level": 11,
             "item": "Oran Berry",
+            "nature": "Quiet",
+            "ability": "Iron Fist",
             "moves": [
                 "Fury Swipes",
                 "Ember",
                 "Taunt"
             ]
-        },
-        "Dawn/Lucas 1": {
-            "level": 9,
-            "moves": [
-                "Scratch",
-                "Leer",
-                "Ember",
-                "Taunt"
-            ]
         }
     },
+   
     "Piplup": {
-        "Rival Barry 1": {
+        "Rival Barry 1 - Chimchar Starter": {
             "level": 11,
             "item": "Oran Berry",
             "nature": "Gentle",
+            "ability": "Torrent",
             "moves": [
                 "Water Pulse",
                 "Peck",
                 "Pound"
             ]
-        },
-        "Dawn/Lucas 1": {
-            "level": 9,
-            "moves": [
-                "Pound",
-                "Growl",
-                "Bubble",
-                "Water Sport"
-            ]
         }
     },
+   
     "Nosepass": {
         "Leader Roark": {
             "level": 15,
@@ -389,7 +414,7 @@ var SETDEX_DPP = {
             ]   
 
         },
-        "Lucas 2 - Chimchar starter": {
+        "Lucas 2 - Chimchar Starter": {
             "level": 30,
             "item": "Sitrus Berry",
             "nature": "Relaxed",
@@ -401,7 +426,7 @@ var SETDEX_DPP = {
                 "Bulldoze"
             ]             
         },
-        "Dawn 2 - Chimchar starter": {
+        "Dawn 2 - Chimchar Starter": {
             "level": 30,
             "item": "Sitrus Berry",      		
             "nature": "Quirky",
@@ -867,7 +892,7 @@ var SETDEX_DPP = {
     },
 
     "Granbull": {
-        "Lucas 2 - Chimchar starter": {
+        "Lucas 2 - Chimchar Starter": {
             "level": 29,
             "item": "Muscle Band",            
             "nature": "Impish",
@@ -879,7 +904,7 @@ var SETDEX_DPP = {
                 "Ice Fang"
             ]    
         },
-		"Lucas 3 - Chimchar starter": {
+		"Lucas 3 - Chimchar Starter": {
             "level": 44,
             "item": "Choice Band",            
             "nature": "Hasty",
@@ -891,7 +916,7 @@ var SETDEX_DPP = {
                 "Earthquake"
             ]  
         },
-		"Lucas 4 - Chimchar starter": {
+		"Lucas 4 - Chimchar Starter": {
             "level": 69,
             "item": "Muscle Band",            
             "nature": "Impish",
@@ -903,7 +928,7 @@ var SETDEX_DPP = {
                 "Earthquake"
             ]  			
         },
-        "Lucas 2 - Turtwig starter": {
+        "Lucas 2 - Turtwig Starter": {
             "level": 29,
             "item": "Muscle Band",            
             "nature": "Calm",
@@ -915,7 +940,7 @@ var SETDEX_DPP = {
                 "Ice Fang"
             ]    
         },
-		"Lucas 3 - Turtwig starter": {
+		"Lucas 3 - Turtwig Starter": {
             "level": 44,
             "item": "Choice Band",            
             "nature": "Careful",
@@ -927,7 +952,7 @@ var SETDEX_DPP = {
                 "Earthquake"
             ]  
         },
-		"Lucas 4 - Turtwig starter": {
+		"Lucas 4 - Turtwig Starter": {
             "level": 69,
             "item": "Muscle Band",            
             "nature": "Calm",
@@ -939,7 +964,7 @@ var SETDEX_DPP = {
                 "Earthquake"
             ]  			
         },
-        "Lucas 2 - Piplup starter": {
+        "Lucas 2 - Piplup Starter": {
             "level": 29,
             "item": "Muscle Band",            
             "nature": "Naive",
@@ -951,7 +976,7 @@ var SETDEX_DPP = {
                 "Ice Fang"
             ]    
         },
-		"Lucas 3 - Piplup starter": {
+		"Lucas 3 - Piplup Starter": {
             "level": 44,
             "item": "Choice Band",            
             "nature": "Quiet",
@@ -963,7 +988,7 @@ var SETDEX_DPP = {
                 "Earthquake"
             ]  
         },
-		"Lucas 4 - Piplup starter": {
+		"Lucas 4 - Piplup Starter": {
             "level": 69,
             "item": "Muscle Band",            
             "nature": "Naive",
@@ -978,7 +1003,7 @@ var SETDEX_DPP = {
     },
 
     "Lickilicky": {
-        "Lucas 2 - Chimchar starter": {
+        "Lucas 2 - Chimchar Starter": {
             "level": 29,
             "item": "Leftovers",            
             "nature": "Lonely",
@@ -990,7 +1015,7 @@ var SETDEX_DPP = {
                 "Protect"
             ]    
         },
-        "Lucas 3 - Chimchar starter": {
+        "Lucas 3 - Chimchar Starter": {
             "level": 44,
             "item": "Leftovers",            
             "nature": "Naughty",
@@ -1002,7 +1027,7 @@ var SETDEX_DPP = {
                 "Amnesia"
             ]  
         },
-        "Lucas 4 - Chimchar starter": {
+        "Lucas 4 - Chimchar Starter": {
             "level": 69,
             "item": "Leftovers",            
             "nature": "Lonely",
@@ -1014,7 +1039,7 @@ var SETDEX_DPP = {
                 "Swords Dance"
             ] 	
         },
-        "Lucas 2 - Turtwig starter": {
+        "Lucas 2 - Turtwig Starter": {
             "level": 29,
             "item": "Leftovers",            
             "nature": "Jolly",
@@ -1026,7 +1051,7 @@ var SETDEX_DPP = {
                 "Protect"
             ]    
         },
-        "Lucas 3 - Turtwig starter": {
+        "Lucas 3 - Turtwig Starter": {
             "level": 44,
             "item": "Leftovers",            
             "nature": "Mild",
@@ -1038,7 +1063,7 @@ var SETDEX_DPP = {
                 "Amnesia"
             ]  
         },
-        "Lucas 4 - Turtwig starter": {
+        "Lucas 4 - Turtwig Starter": {
             "level": 69,
             "item": "Leftovers",            
             "nature": "Jolly",
@@ -1050,7 +1075,7 @@ var SETDEX_DPP = {
                 "Swords Dance"
             ] 	
         },
-        "Lucas 2 - Piplup starter": {
+        "Lucas 2 - Piplup Starter": {
             "level": 29,
             "item": "Leftovers",            
             "nature": "Relaxed",
@@ -1062,7 +1087,7 @@ var SETDEX_DPP = {
                 "Protect"
             ]    
         },
-        "Lucas 3 - Piplup starter": {
+        "Lucas 3 - Piplup Starter": {
             "level": 44,
             "item": "Leftovers",            
             "nature": "Timid",
@@ -2558,7 +2583,7 @@ var SETDEX_DPP = {
     },
 
     "Alakazam": {
-        "Dawn 3 - Chimchar starter": {
+        "Dawn 3 - Chimchar Starter": {
             "level": 44,
             "item": "Life Orb",            
             "nature": "Sassy",
@@ -2570,7 +2595,7 @@ var SETDEX_DPP = {
                 "Dazzling Gleam"
             ]	
         },
-        "Dawn 4 - Chimchar starter": {
+        "Dawn 4 - Chimchar Starter": {
             "level": 69,
             "item": "Life Orb",            
             "nature": "Calm",
@@ -2582,7 +2607,7 @@ var SETDEX_DPP = {
                 "Dazzling Gleam"
             ]	
         },
-        "Dawn 3 - Turtwig starter": {
+        "Dawn 3 - Turtwig Starter": {
             "level": 44,
             "item": "Life Orb",            
             "nature": "Bashful",
@@ -2594,7 +2619,7 @@ var SETDEX_DPP = {
                 "Dazzling Gleam"
             ]	
         },
-        "Dawn 4 - Turtwig starter": {
+        "Dawn 4 - Turtwig Starter": {
             "level": 69,
             "item": "Life Orb",            
             "nature": "Lonely",
@@ -2606,7 +2631,7 @@ var SETDEX_DPP = {
                 "Dazzling Gleam"
             ]	
         },
-        "Dawn 3 - Piplup starter": {
+        "Dawn 3 - Piplup Starter": {
             "level": 44,
             "item": "Life Orb",            
             "nature": "Modest",
@@ -2618,7 +2643,7 @@ var SETDEX_DPP = {
                 "Dazzling Gleam"
             ]	
         },
-        "Dawn 4 - Piplup starter": {
+        "Dawn 4 - Piplup Starter": {
             "level": 69,
             "item": "Life Orb",            
             "nature": "Careful",
@@ -2630,7 +2655,7 @@ var SETDEX_DPP = {
                 "Dazzling Gleam"
             ]	
         },
-        "Lucas 3 - Chimchar starter": {
+        "Lucas 3 - Chimchar Starter": {
             "level": 44,
             "item": "Life Orb",            
             "nature": "Mild",
@@ -2642,7 +2667,7 @@ var SETDEX_DPP = {
                 "Dazzling Gleam"
             ]	
         },
-        "Lucas 4 - Chimchar starter": {
+        "Lucas 4 - Chimchar Starter": {
             "level": 69,
             "item": "Life Orb",            
             "nature": "Jolly",
@@ -2654,7 +2679,7 @@ var SETDEX_DPP = {
                 "Dazzling Gleam"
             ]	
         },
-        "Lucas 3 - Turtwig starter": {
+        "Lucas 3 - Turtwig Starter": {
             "level": 44,
             "item": "Life Orb",            
             "nature": "Adamant",
@@ -2666,7 +2691,7 @@ var SETDEX_DPP = {
                 "Dazzling Gleam"
             ]	
         },
-        "Lucas 4 - Turtwig starter": {
+        "Lucas 4 - Turtwig Starter": {
             "level": 69,
             "item": "Life Orb",            
             "nature": "Hardy",
@@ -2678,7 +2703,7 @@ var SETDEX_DPP = {
                 "Dazzling Gleam"
             ]	
         },
-        "Lucas 3 - Piplup starter": {
+        "Lucas 3 - Piplup Starter": {
             "level": 44,
             "item": "Life Orb",            
             "nature": "Sassy",
@@ -2690,7 +2715,7 @@ var SETDEX_DPP = {
                 "Dazzling Gleam"
             ]	
         },
-        "Lucas 4 - Piplup starter": {
+        "Lucas 4 - Piplup Starter": {
             "level": 69,
             "item": "Life Orb",            
             "nature": "Rash",
@@ -2776,7 +2801,7 @@ var SETDEX_DPP = {
     },
 
     "Mamoswine": {
-        "Dawn 3 - Chimchar starter": {
+        "Dawn 3 - Chimchar Starter": {
             "level": 44,
             "item": "Passho Berry",            
             "nature": "Mild",
@@ -2788,7 +2813,7 @@ var SETDEX_DPP = {
                 "Ice Shard"
             ]	
         },
-        "Dawn 4 - Chimchar starter": {
+        "Dawn 4 - Chimchar Starter": {
             "level": 69,
             "item": "Choice Band",            
             "nature": "Naive",
@@ -2800,7 +2825,7 @@ var SETDEX_DPP = {
                 "Superpower"
             ]	
         },
-        "Dawn 3 - Turtwig starter": {
+        "Dawn 3 - Turtwig Starter": {
             "level": 44,
             "item": "Passho Berry",            
             "nature": "Serious",
@@ -2812,7 +2837,7 @@ var SETDEX_DPP = {
                 "Ice Shard"
             ]	
         },
-        "Dawn 4 - Turtwig starter": {
+        "Dawn 4 - Turtwig Starter": {
             "level": 69,
             "item": "Choice Band",            
             "nature": "Calm",
@@ -2824,7 +2849,7 @@ var SETDEX_DPP = {
                 "Superpower"
             ]	
         },
-        "Dawn 3 - Piplup starter": {
+        "Dawn 3 - Piplup Starter": {
             "level": 44,
             "item": "Passho Berry",            
             "nature": "Lax",
@@ -2836,7 +2861,7 @@ var SETDEX_DPP = {
                 "Ice Shard"
             ]	
         },
-        "Dawn 4 - Piplup starter": {
+        "Dawn 4 - Piplup Starter": {
             "level": 69,
             "item": "Choice Band",            
             "nature": "Quiet",
@@ -2848,7 +2873,7 @@ var SETDEX_DPP = {
                 "Superpower"
             ]	
         },
-        "Lucas 3 - Chimchar starter": {
+        "Lucas 3 - Chimchar Starter": {
             "level": 44,
             "item": "Passho Berry",            
             "nature": "Naive",
@@ -2860,7 +2885,7 @@ var SETDEX_DPP = {
                 "Ice Shard"
             ]	
         },
-        "Lucas 4 - Chimchar starter": {
+        "Lucas 4 - Chimchar Starter": {
             "level": 69,
             "item": "Choice Band",            
             "nature": "Hasty",
@@ -2872,7 +2897,7 @@ var SETDEX_DPP = {
                 "Superpower"
             ]
         },
-        "Lucas 3 - Turtwig starter": {
+        "Lucas 3 - Turtwig Starter": {
             "level": 44,
             "item": "Passho Berry",            
             "nature": "Lonely",
@@ -2884,7 +2909,7 @@ var SETDEX_DPP = {
                 "Ice Shard"
             ]	
         },
-        "Lucas 4 - Turtwig starter": {
+        "Lucas 4 - Turtwig Starter": {
             "level": 69,
             "item": "Choice Band",            
             "nature": "Careful",
@@ -2896,7 +2921,7 @@ var SETDEX_DPP = {
                 "Superpower"
             ]
         },
-        "Lucas 3 - Piplup starter": {
+        "Lucas 3 - Piplup Starter": {
             "level": 44,
             "item": "Passho Berry",            
             "nature": "Calm",
@@ -2908,7 +2933,7 @@ var SETDEX_DPP = {
                 "Ice Shard"
             ]	
         },
-        "Lucas 4 - Piplup starter": {
+        "Lucas 4 - Piplup Starter": {
             "level": 69,
             "item": "Choice Band",            
             "nature": "Quiet",
@@ -2960,7 +2985,7 @@ var SETDEX_DPP = {
     },
 
     "Vaporeon": {
-        "Dawn 3 - Chimchar starter": {
+        "Dawn 3 - Chimchar Starter": {
             "level": 44,
             "item": "Wise Glasses",            
             "nature": "Careful",
@@ -2972,7 +2997,7 @@ var SETDEX_DPP = {
                 "Aqua Ring"
             ]	
         },
-        "Dawn 4 - Chimchar starter": {
+        "Dawn 4 - Chimchar Starter": {
             "level": 69,
             "item": "Wacan Berry",            
             "nature": "Modest",
@@ -2984,7 +3009,7 @@ var SETDEX_DPP = {
                 "Sleep Talk"
             ]	
         },
-        "Lucas 3 - Chimchar starter": {
+        "Lucas 3 - Chimchar Starter": {
             "level": 44,
             "item": "Wise Glasses",            
             "nature": "Bold",
@@ -2996,7 +3021,7 @@ var SETDEX_DPP = {
                 "Aqua Ring"
             ]	
         },
-        "Lucas 4 - Chimchar starter": {
+        "Lucas 4 - Chimchar Starter": {
             "level": 69,
             "item": "Wacan Berry",            
             "nature": "Brave",
@@ -3011,7 +3036,7 @@ var SETDEX_DPP = {
     },
 
     "Torterra": {
-        "Dawn 3 - Chimchar starter": {
+        "Dawn 3 - Chimchar Starter": {
             "level": 45,
             "item": "Sitrus Berry",            
             "nature": "Adamant",
@@ -3023,7 +3048,7 @@ var SETDEX_DPP = {
                 "Rock Slide"
             ]	
         },
-        "Dawn 4 - Chimchar starter": {
+        "Dawn 4 - Chimchar Starter": {
                 "level": 70,
                 "item": "Sitrus Berry",            
                 "nature": "Hasty",
@@ -3035,7 +3060,7 @@ var SETDEX_DPP = {
                     "Iron Head"
                 ]	
             },
-        "Lucas 3 - Chimchar starter": {
+        "Lucas 3 - Chimchar Starter": {
             "level": 45,
             "item": "Sitrus Berry",            
             "nature": "Mild",
@@ -3047,7 +3072,7 @@ var SETDEX_DPP = {
                 "Rock Slide"
             ]	
         },
-        "Lucas 4 - Chimchar starter": {
+        "Lucas 4 - Chimchar Starter": {
             "level": 70,
             "item": "Sitrus Berry",            
             "nature": "Jolly",
@@ -4660,7 +4685,7 @@ var SETDEX_DPP = {
     },
 
     "Clefable": {
-        "Dawn 2 - Chimchar starter": {
+        "Dawn 2 - Chimchar Starter": {
             "level": 29,
             "item": "Leftovers",           
             "nature": "Careful",
@@ -4673,7 +4698,7 @@ var SETDEX_DPP = {
             ]
 		
         },
-        "Dawn 3 - Chimchar starter": {
+        "Dawn 3 - Chimchar Starter": {
             "level": 44,
             "item": "Leftovers",           
             "nature": "Quirky",
@@ -4686,7 +4711,7 @@ var SETDEX_DPP = {
             ]
 		
         },
-        "Dawn 4 - Chimchar starter": {
+        "Dawn 4 - Chimchar Starter": {
             "level": 69,
             "item": "Leftovers",           
             "nature": "Quirky",
@@ -4699,7 +4724,7 @@ var SETDEX_DPP = {
             ]
 		
         },
-        "Dawn 2 - Turtwig starter": {
+        "Dawn 2 - Turtwig Starter": {
             "level": 29,
             "item": "Leftovers",           
             "nature": "Jolly",
@@ -4712,7 +4737,7 @@ var SETDEX_DPP = {
             ]
 		
         },
-        "Dawn 3 - Turtwig starter": {
+        "Dawn 3 - Turtwig Starter": {
             "level": 44,
             "item": "Leftovers",           
             "nature": "Naive",
@@ -4725,7 +4750,7 @@ var SETDEX_DPP = {
             ]
 		
         },
-        "Dawn 4 - Turtwig starter": {
+        "Dawn 4 - Turtwig Starter": {
             "level": 69,
             "item": "Leftovers",           
             "nature": "Sassy",
@@ -4738,7 +4763,7 @@ var SETDEX_DPP = {
             ]
 		
         },
-        "Dawn 2 - Piplup starter": {
+        "Dawn 2 - Piplup Starter": {
             "level": 29,
             "item": "Leftovers",           
             "nature": "Lonely",
@@ -4751,7 +4776,7 @@ var SETDEX_DPP = {
             ]
 		
         },
-        "Dawn 3 - Piplup starter": {
+        "Dawn 3 - Piplup Starter": {
             "level": 44,
             "item": "Leftovers",           
             "nature": "Brave",
@@ -4764,7 +4789,7 @@ var SETDEX_DPP = {
             ]
 		
         },
-        "Dawn 4 - Piplup starter": {
+        "Dawn 4 - Piplup Starter": {
             "level": 69,
             "item": "Leftovers",           
             "nature": "Rash",
@@ -5251,7 +5276,7 @@ var SETDEX_DPP = {
     },
 
     "Flareon": {
-        "Dawn 3 - Turtwig starter": {
+        "Dawn 3 - Turtwig Starter": {
             "level": 44,      
             "item": "Muscle Band", 			
             "nature": "Hardy",
@@ -5263,7 +5288,7 @@ var SETDEX_DPP = {
 				"Will-O-Wisp"
             ]	
         },
-        "Dawn 4 - Turtwig starter": {
+        "Dawn 4 - Turtwig Starter": {
             "level": 69,      
             "item": "Passho Berry", 			
             "nature": "Quiet",
@@ -5275,7 +5300,7 @@ var SETDEX_DPP = {
 				"Volt Tackle"
             ]	
         },
-        "Lucas 3 - Turtwig starter": {
+        "Lucas 3 - Turtwig Starter": {
             "level": 44,      
             "item": "Muscle Band", 			
             "nature": "Naughty",
@@ -5287,7 +5312,7 @@ var SETDEX_DPP = {
 				"Will-O-Wisp"
             ]	
         },
-        "Lucas 4 - Turtwig starter": {
+        "Lucas 4 - Turtwig Starter": {
             "level": 69,      
             "item": "Passho Berry", 			
             "nature": "Lonely",
@@ -5326,7 +5351,7 @@ var SETDEX_DPP = {
 				"Sunny Day"
             ]				
         },
-        "Dawn 2 - Chimchar starter": {
+        "Dawn 2 - Chimchar Starter": {
             "level": 29,
             "item": "Muscle Band",      		
                 "nature": "Adamant",
@@ -5338,7 +5363,7 @@ var SETDEX_DPP = {
                     "Quick Attack"
                 ]	
         },	
-        "Dawn 3 - Chimchar starter": {
+        "Dawn 3 - Chimchar Starter": {
             "level": 44,
             "item": "Choice Band",      		
                 "nature": "Naughty",
@@ -5350,7 +5375,7 @@ var SETDEX_DPP = {
                     "Ice Punch"
                     ]	
                 },
-        "Dawn 4 - Chimchar starter": {
+        "Dawn 4 - Chimchar Starter": {
             "level": 69,
             "item": "Focus Sash",      		
                 "nature": "Serious",
@@ -5362,7 +5387,7 @@ var SETDEX_DPP = {
                     "Agility"
                         ]	
                     },
-                    "Dawn 2 - Turtwig starter": {
+                    "Dawn 2 - Turtwig Starter": {
                         "level": 29,
                         "item": "Muscle Band",      		
                             "nature": "Modest",
@@ -5374,7 +5399,7 @@ var SETDEX_DPP = {
                                 "Quick Attack"
                             ]	
                     },	
-                    "Dawn 3 - Turtwig starter": {
+                    "Dawn 3 - Turtwig Starter": {
                         "level": 44,
                         "item": "Choice Band",      		
                             "nature": "Timid",
@@ -5386,7 +5411,7 @@ var SETDEX_DPP = {
                                 "Ice Punch"
                                 ]	
                             },
-                    "Dawn 4 - Turtwig starter": {
+                    "Dawn 4 - Turtwig Starter": {
                         "level": 69,
                         "item": "Focus Sash",      		
                             "nature": "Impish",
@@ -5398,7 +5423,7 @@ var SETDEX_DPP = {
                                 "Agility"
                                     ]	
                                 },
-                                "Dawn 2 - Piplup starter": {
+                                "Dawn 2 - Piplup Starter": {
                                     "level": 29,
                                     "item": "Muscle Band",      		
                                         "nature": "Docile",
@@ -5410,7 +5435,7 @@ var SETDEX_DPP = {
                                             "Quick Attack"
                                         ]	
                                 },	
-                                "Dawn 3 - Piplup starter": {
+                                "Dawn 3 - Piplup Starter": {
                                     "level": 44,
                                     "item": "Choice Band",      		
                                         "nature": "Relaxed",
@@ -5422,7 +5447,7 @@ var SETDEX_DPP = {
                                             "Ice Punch"
                                             ]	
                                         },
-                                "Dawn 4 - Piplup starter": {
+                                "Dawn 4 - Piplup Starter": {
                                     "level": 69,
                                     "item": "Focus Sash",      		
                                         "nature": "Modest",
