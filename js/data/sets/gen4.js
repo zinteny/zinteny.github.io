@@ -693,6 +693,18 @@ var SETDEX_DPP = {
                 "Soft-Boiled",
                 "Sweet Kiss"
             ]  
+        },
+        "Ace Trainer Laura ": {
+            "level": 23,           
+            "nature": "Jolly",
+            "ability": "Serene Grace",
+            "ivs":{"hp":24,"at":24,"df":24,"sa":24,"sd":24,"sp":24},
+            "moves": [
+                "Wish",
+                "Air Cutter",
+                "Safeguard",
+                "Ancient Power"
+            ]  
         }
     },
 
@@ -708,6 +720,21 @@ var SETDEX_DPP = {
                 "Double Team",
                 "Hypnosis",
                 "Curse"
+            ] 
+        }
+    },
+
+    "Swellow": {
+        "Ace Trainer Laura": {
+            "level": 23,           
+            "nature": "Mild",
+            "ability": "Guts",
+            "ivs":{"hp":24,"at":24,"df":24,"sa":24,"sd":24,"sp":24},
+            "moves": [
+                "Wing Attack",
+                "Double Team",
+                "Aerial Ace",
+                "Reversal"
             ] 
         }
     },
@@ -1316,6 +1343,7 @@ var SETDEX_DPP = {
             "item": "Wise Glasses",            
             "nature": "Relaxed",
             "ability": "Pressure",
+            "ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30},
             "moves": [
                 "Shadow Ball",
                 "Psychic",
@@ -2501,6 +2529,7 @@ var SETDEX_DPP = {
             "item": "Life Orb",            
             "nature": "Timid",
             "ability": "Adaptability",
+            "ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30},
             "moves": [
                 "Aura Sphere",
                 "Flash Cannon",
@@ -2924,6 +2953,18 @@ var SETDEX_DPP = {
                 "Earth Power",
                 "Recover",
                 "Ice Punch"
+            ]			
+        },
+        "Ace Trainer Maria": {
+            "level": 22,        
+            "nature": "Modest",
+            "ability": "Water Absorb",
+            "ivs":{"hp":24,"at":24,"df":24,"sa":24,"sd":24,"sp":24},
+            "moves": [
+                "Amnesia",
+                "Curse",
+                "Mud Bomb",
+                "Double Kick"
             ]			
         }
     },
@@ -5103,6 +5144,7 @@ var SETDEX_DPP = {
 			"item": "Shuca Berry",
             "nature": "Quiet",
             "ability": "Static",
+            "ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30},
             "moves": [
                 "Thunderbolt",
                 "Dragon Pulse",
@@ -5604,6 +5646,21 @@ var SETDEX_DPP = {
 		}		
     },
 
+    "Quilava": {
+        "Ace Trainer Maria": {
+            "level": 22,      		
+            "nature": "Jolly",
+            "ability": "Adaptability",
+            "ivs":{"hp":24,"at":24,"df":24,"sa":24,"sd":24,"sp":24},
+            "moves": [
+                "Quick Attack",
+                "Double Kick",
+				"Flame Wheel",
+				"Defense Curl"
+            ]	
+		}		
+    },
+
     "Sudowoodo": {
         "Elite Four Bertha Team 2": {
             "level": 72,      
@@ -5616,7 +5673,19 @@ var SETDEX_DPP = {
 				"Sucker Punch",
 				"Hammer Arm"
             ]	
-		}		
+		},
+        "Ace Trainer Maria": {
+            "level": 22, 			
+            "nature": "Gentle",
+            "ability": "Rock Head",
+            "ivs":{"hp":24,"at":24,"df":24,"sa":24,"sd":24,"sp":24},
+            "moves": [
+                "Rock Tomb",
+                "Mimic",
+				"Slam",
+				"Feint Attack"
+            ]	
+		}	
     },
 
     "Camerupt": {
