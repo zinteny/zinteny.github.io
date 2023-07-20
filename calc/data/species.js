@@ -227,8 +227,8 @@ var RBY = {
         weightkg: 120
     },
     'Farfetch\u2019d': {
-        types: ['Normal', 'Flying'],
-        bs: { hp: 52, at: 65, df: 55, sp: 60, sl: 58 },
+        types: ['Fighting', 'Flying'],
+        bs: { hp: 55, at: 110, df: 60, sp: 110, sl: 55 },
         weightkg: 15
     },
     Fearow: {
@@ -853,7 +853,7 @@ var GSC_PATCH = {
     Electrode: { bs: { sa: 80, sd: 80 }, gender: 'N' },
     Exeggcute: { bs: { sa: 60, sd: 45 } },
     Exeggutor: { bs: { sa: 125, sd: 65 } },
-    'Farfetch\u2019d': { bs: { sa: 58, sd: 62 } },
+    'Farfetch\u2019d': { bs: { sa: 55, sd: 60 } },
     Fearow: { bs: { sa: 61, sd: 61 } },
     Flareon: { bs: { sa: 95, sd: 110 } },
     Gastly: { bs: { sa: 100, sd: 35 } },
@@ -4012,20 +4012,6 @@ var RENPLAT_PATCH = {
             'sp': 70
         }
     },  
-    'Farfetch\'d': {
-        'bs': {
-            'hp': 55,
-            'at': 110,
-            'df': 60,
-            'sa': 55,
-            'sd': 60,
-            'sp': 110
-        },
-        'types': [
-            'Fighting',
-            'Flying',
-        ]
-    },
     'Dodrio': {
         'bs': {
             'hp': 60,
