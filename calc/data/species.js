@@ -1530,6 +1530,7 @@ var ADV_PATCH = {
     Electrode: { abilities: { 0: 'Soundproof' } },
     Exeggcute: { abilities: { 0: 'Chlorophyll' } },
     Exeggutor: { abilities: { 0: 'Chlorophyll' } },
+    'Farfetch\u2019d': { abilities: { 0: 'Keen Eye' } },
     Fearow: { abilities: { 0: 'Keen Eye' } },
     Flareon: { abilities: { 0: 'Flash Fire' } },
     Gastly: { abilities: { 0: 'Levitate' } },
@@ -4005,7 +4006,7 @@ var RENPLAT_PATCH = {
             'sp': 70
         }
     },  
-    'Farfetch\'d': {
+    'Farfetch\u2019d': {
         'bs': {
             'hp': 55,
             'at': 110,
@@ -8913,6 +8914,7 @@ var SS_PATCH = {
     Darumaka: { otherFormes: ['Darumaka-Galar'] },
     Eevee: { otherFormes: ['Eevee-Gmax'] },
     Equilibra: { bs: { sa: 121 } },
+    'Farfetch\u2019d': { otherFormes: ['Farfetch\u2019d-Galar'] },
     Garbodor: { otherFormes: ['Garbodor-Gmax'] },
     Gengar: { otherFormes: ['Gengar-Gmax', 'Gengar-Mega'] },
     Kingler: { otherFormes: ['Kingler-Gmax'] },
