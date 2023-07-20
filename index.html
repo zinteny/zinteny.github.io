@@ -1479,6 +1479,40 @@
     <script type="text/javascript" src="./js/moveset_import.js?1eda9a4d"></script>
 </div>
 
+<head>
+    <title>Small Dropdown Menu</title>
+    <style>
+        /* Basic styling for the dropdown container and the hidden text */
+        .dropdown {
+            position: absolute;
+            top: 1750px; /* Adjust the top position as needed */
+            right: 100px; /* Adjust the right position as needed */
+            display: inline-block;
+            cursor: pointer;
+        }
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: #f9f9f9;
+            min-width: 100px;
+            padding: 5px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        }
+        .dropdown:hover .dropdown-content {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <div class="dropdown">
+        Click me
+        <div class="dropdown-content">
+            <p>This is the hidden line of text.</p>
+        </div>
+    </div>
+</body>
+
+
 <div class="credits">Created by Honko, maintained by Austin and Kris
     <ul><li><a href="https://github.com/smogon/damage-calc/contributors" target="_blank">Contributors</a></li>
     <li><a href="https://www.smogon.com/forums/threads/pok%C3%A9mon-showdown-damage-calculator.3593546/" target="_blank">Bug Reports</a></li>
