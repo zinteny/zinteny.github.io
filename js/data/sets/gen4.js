@@ -4817,7 +4817,7 @@ var SETDEX_DPP = {
     },
 
     "Rotom": {
-        "Leader Volkner": {
+        "Wash - Leader Volkner": {
             "level": 61,
             "item": "Sitrus Berry",            
             "nature": "Modest",
@@ -4830,7 +4830,7 @@ var SETDEX_DPP = {
                 "Thunder Wave"
             ]	
 		},
-        "Leader Volkner": {
+        "Heat - Leader Volkner": {
             "level": 61,
             "item": "White Herb",            
             "nature": "Modest",
