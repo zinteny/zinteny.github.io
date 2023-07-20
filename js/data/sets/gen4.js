@@ -288,7 +288,6 @@ var SETDEX_DPP = {
     "Drifloon": {
         "PKMN Trainer Cheryl": {
             "level": 19,
-            "item": "Sitrus Berry",
             "nature": "Lax",
             "ability": "Unburden",
             "moves": [
@@ -331,7 +330,6 @@ var SETDEX_DPP = {
     "Chansey": {
         "PKMN Trainer Cheryl": {
             "level": 20,
-            "item": "Sitrus Berry",
             "nature": "Hasty",
             "ability": "Serene Grace",
             "moves": [
