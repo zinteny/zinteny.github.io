@@ -226,11 +226,6 @@ var RBY = {
         bs: { hp: 95, at: 95, df: 85, sp: 55, sl: 125 },
         weightkg: 120
     },
-    'Farfetch\u2019d': {
-        types: ['Normal', 'Flying'],
-        bs: { hp: 52, at: 65, df: 55, sp: 60, sl: 58 },
-        weightkg: 15
-    },
     Fearow: {
         types: ['Normal', 'Flying'],
         bs: { hp: 65, at: 90, df: 65, sp: 100, sl: 61 },
@@ -853,7 +848,6 @@ var GSC_PATCH = {
     Electrode: { bs: { sa: 80, sd: 80 }, gender: 'N' },
     Exeggcute: { bs: { sa: 60, sd: 45 } },
     Exeggutor: { bs: { sa: 125, sd: 65 } },
-    'Farfetch\u2019d': { bs: { sa: 58, sd: 62 } },
     Fearow: { bs: { sa: 61, sd: 61 } },
     Flareon: { bs: { sa: 95, sd: 110 } },
     Gastly: { bs: { sa: 100, sd: 35 } },
@@ -1536,7 +1530,6 @@ var ADV_PATCH = {
     Electrode: { abilities: { 0: 'Soundproof' } },
     Exeggcute: { abilities: { 0: 'Chlorophyll' } },
     Exeggutor: { abilities: { 0: 'Chlorophyll' } },
-    'Farfetch\u2019d': { abilities: { 0: 'Keen Eye' } },
     Fearow: { abilities: { 0: 'Keen Eye' } },
     Flareon: { abilities: { 0: 'Flash Fire' } },
     Gastly: { abilities: { 0: 'Levitate' } },
@@ -7617,7 +7610,6 @@ var SM_PATCH = {
     Eevee: { otherFormes: ['Eevee-Starter'] },
     Electrode: { bs: { sp: 150 } },
     Exeggutor: { bs: { sd: 75 }, otherFormes: ['Exeggutor-Alola'] },
-    'Farfetch\u2019d': { bs: { at: 90 } },
     Gengar: { abilities: { 0: 'Cursed Body' } },
     Geodude: { otherFormes: ['Geodude-Alola'] },
     Golem: { otherFormes: ['Golem-Alola'] },
@@ -8921,7 +8913,6 @@ var SS_PATCH = {
     Darumaka: { otherFormes: ['Darumaka-Galar'] },
     Eevee: { otherFormes: ['Eevee-Gmax'] },
     Equilibra: { bs: { sa: 121 } },
-    'Farfetch\u2019d': { otherFormes: ['Farfetch\u2019d-Galar'] },
     Garbodor: { otherFormes: ['Garbodor-Gmax'] },
     Gengar: { otherFormes: ['Gengar-Gmax', 'Gengar-Mega'] },
     Kingler: { otherFormes: ['Kingler-Gmax'] },
