@@ -6779,7 +6779,7 @@ var SETDEX_DPP = {
     },
 
     "Monferno": {
-        "Rival Barry 2 - Piplup Starter": {
+        "Rival Barry 2 - Turtwig Starter": {
             "level": 33,      		
             "nature": "Hardy",
             "ability": "Iron Fist",
