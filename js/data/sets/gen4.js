@@ -4498,7 +4498,7 @@ var SETDEX_DPP = {
         "Commander Saturn 3": {
             "level": 56,
             "item": "Choice Band",            
-            "nature": "Gentle",
+            "nature": "Bold",
             "ability": "Solid Rock",
             "moves": [
                 "Stone Edge",
