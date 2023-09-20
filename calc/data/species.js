@@ -3738,21 +3738,21 @@ var DPP_PATCH = {
     },
     Wormadam: {
         types: ['Bug', 'Grass'],
-        bs: { hp: 60, at: 59, df: 85, sa: 79, sd: 105, sp: 36 },
+        bs: { hp: 60, at: 50, df: 90, sa: 110, sd: 110, sp: 30 },
         weightkg: 6.5,
         abilities: { 0: 'Anticipation' },
         otherFormes: ['Wormadam-Sandy', 'Wormadam-Trash']
     },
     'Wormadam-Sandy': {
         types: ['Bug', 'Ground'],
-        bs: { hp: 60, at: 79, df: 105, sa: 59, sd: 85, sp: 36 },
+        bs: { hp: 60, at: 50, df: 110, sa: 110, sd: 90, sp: 30 },
         weightkg: 6.5,
         abilities: { 0: 'Anticipation' },
         baseSpecies: 'Wormadam'
     },
     'Wormadam-Trash': {
         types: ['Bug', 'Steel'],
-        bs: { hp: 60, at: 69, df: 95, sa: 69, sd: 95, sp: 36 },
+        bs: { hp: 60, at: 50, df: 100, sa: 110, sd: 100, sp: 30 },
         weightkg: 6.5,
         abilities: { 0: 'Anticipation' },
         baseSpecies: 'Wormadam'
