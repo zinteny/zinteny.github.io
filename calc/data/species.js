@@ -819,7 +819,7 @@ var RBY = {
 var GSC_PATCH = {
     Abra: { bs: { sa: 105, sd: 55 } },
     Aerodactyl: { bs: { sa: 60, sd: 75 } },
-    Alakazam: { bs: { sa: 135, sd: 85 } },
+    Alakazam: { bs: { sa: 135, sd: 95 } },
     Arbok: { bs: { sa: 65, sd: 79 } },
     Arcanine: { bs: { sa: 100, sd: 80 } },
     Articuno: { bs: { sa: 95, sd: 125 }, gender: 'N' },
